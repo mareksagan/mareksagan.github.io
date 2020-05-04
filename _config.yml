@@ -1,9 +1,9 @@
 ### Site Settings ###
 source              : ../
-baseurl             : "/mareksagan.github.io"
+baseurl             : /
 repository          : mareksagan/mareksagan.github.io
 title               : "Marek Sagan"
-description         : "Java / Angular Developer - Personal Blog"
+description         : "Java / Angular Developer"
 
 
 ### Navbar Settings ###
@@ -17,7 +17,9 @@ nav_exclude:
 ### Author Info ###
 author:
   name: Marek Sagan
+  avatar: https://avatars0.githubusercontent.com/u/17403762
   github: mareksagan
+  linkedin: https://www.linkedin.com/in/marek-sagan/
 
 
 ### Posts ###
