@@ -1,99 +1,99 @@
 - name: Scrum
   percentage: 80
-  color: secondary
+  color: info
 
 - name: Agile Development
   percentage: 80
-  color: secondary
+  color: info
 
 - name: Lean Methodology
   percentage: 70
-  color: secondary
+  color: info
 
 - name: Teamwork
   percentage: 100
-  color: secondary
+  color: info
 
 - name: Networking
   percentage: 100
-  color: secondary
+  color: info
 
 - name: Communication Skills
   percentage: 100
-  color: secondary
+  color: info
 
 - name: Analytical Skills
   percentage: 100
-  color: secondary
+  color: info
 
 - name: Attention to Detail
   percentage: 100
-  color: secondary
+  color: info
 
 - name: Multicultural Understanding
   percentage: 100
-  color: secondary
+  color: info
 
 - name: Organizational Skills
   percentage: 100
-  color: secondary
+  color: info
 
 - name: Time Management Skills
   percentage: 100
-  color: secondary
+  color: info
 
 - name: Presentation Skills
   percentage: 100
-  color: secondary
+  color: info
 
 - name: Verbal Communication Skills
   percentage: 100
-  color: secondary
+  color: info
 
 - name: Interpersonal Skills
   percentage: 100
-  color: secondary
+  color: info
 
 - name: Collaboration
   percentage: 100
-  color: secondary
+  color: info
 
 - name: Integrity
   percentage: 100
-  color: secondary
+  color: info
 
 - name: Leadership Skills
   percentage: 100
-  color: secondary
+  color: info
 
 - name: Kanban
   percentage: 100
-  color: secondary
+  color: info
 
 - name: Ability To Work Independently
   percentage: 100
-  color: secondary
+  color: info
 
 - name: Ability To Prioritize
   percentage: 100
-  color: secondary
+  color: info
 
 - name: Mentorship Skills
   percentage: 100
-  color: secondary
+  color: info
 
 - name: Coaching Skills
   percentage: 100
-  color: secondary
+  color: info
 
 - name: Project Management Skills
   percentage: 100
-  color: secondary
+  color: info
 
 - name: Product Management Skills
   percentage: 100
-  color: secondary
+  color: info
 
 - name: Recruitment
   percentage: 100
-  color: secondary
+  color: info
