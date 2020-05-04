@@ -1,0 +1,103 @@
+- name: Scrum
+  percentage: 80
+  color: success
+
+- name: Agile Development
+  percentage: 80
+  color: secondary
+
+- name: Lean Methodology
+  percentage: 70
+  color: warning
+
+- name: Teamwork
+  percentage: 100
+  color: danger
+
+- name: Networking
+  percentage: 100
+  color: danger
+
+- name: Communication Skills
+  percentage: 100
+  color: danger
+
+- name: Analytical Skills
+  percentage: 100
+  color: danger
+
+- name: Attention to Detail
+  percentage: 100
+  color: danger
+
+- name: Multicultural Understanding
+  percentage: 100
+  color: danger
+
+- name: Organizational Skills
+  percentage: 100
+  color: danger
+
+- name: Time Management Skills
+  percentage: 100
+  color: danger
+
+- name: Presentation Skills
+  percentage: 100
+  color: danger
+
+- name: Verbal Communication Skills
+  percentage: 100
+  color: danger
+
+- name: Interpersonal Skills
+  percentage: 100
+  color: danger
+
+- name: Collaboration
+  percentage: 100
+  color: danger
+
+- name: Integrity
+  percentage: 100
+  color: danger
+
+- name: Leadership Skills
+  percentage: 100
+  color: danger
+
+- name: Kanban
+  percentage: 100
+  color: danger
+
+- name: Data Analytics
+  percentage: 100
+  color: danger
+
+- name: Ability To Work Independently
+  percentage: 100
+  color: danger
+
+- name: Ability To Prioritize
+  percentage: 100
+  color: danger
+
+- name: Mentorship Skills
+  percentage: 100
+  color: danger
+
+- name: Coaching Skills
+  percentage: 100
+  color: danger
+
+- name: Project Management Skills
+  percentage: 100
+  color: danger
+
+- name: Product Management Skills
+  percentage: 100
+  color: danger
+
+- name: Recruitment
+  percentage: 100
+  color: danger
