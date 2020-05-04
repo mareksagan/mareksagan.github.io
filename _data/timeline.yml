@@ -1,10 +1,10 @@
-- title: Marketing Data Prediction, Warsaw School of Computer Science, Poland
+- title: <b>Marketing Data Prediction</b>, Warsaw School of Computer Science, Poland
   from: 2018
   to: present
   description:
-    - Developing a competitive and user friendly marketing campaign supporting system with Artificial Intelligence capabilities<br>
-    - Using the Random Forest and other Machine Learning algorithms and data structures as a basis (Accord.NET)<br>
-    - Utilising the .NET Core technology for the back end development (ASP.NET Core 2, Web API 2)<br>
+    - Developing a competitive and user friendly marketing campaign supporting system with <b>Artificial Intelligence</b> capabilities<br>
+    - Using the <b>Random Forest</b> and other <b>Machine Learning algorithms</b> and data structures as a basis (<b>Accord.NET</b>)<br>
+    - Utilising the <b>.NET Core</b> technology for the back end development (<b>ASP.NET Core 2, Web API 2</b>)<br>
     - Developing the front end using <b>ReactJS</b> and Recharter<br>
     - Using the <b>Entity Framework Core</b> as the ORM
 
