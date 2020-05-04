@@ -1,7 +1,7 @@
 ---
 name: CrudCrm
 tools: [Angular 9, NodeJS, ExpressJS, MongoDB]
-image: https://lh3.googleusercontent.com/proxy/Kny18q8I90MvfS8ZWI54Xb8oiFt-GYDfwbjkQ1IONwOomucLEWvKpLX5bLaSUPGfYeXanBd6Vk5KFDah-EnPMvBl
-description: Contact management SPA
-external_url: https://github.com/mareksagan/ContactOrganiser
+image: https://1gr.cz/fotky/idnes/15/043/cl5/SAN5ac8f6_182819_15996134.jpg
+description: Microsoft Dynamics CRM data uploading service
+external_url: https://github.com/mareksagan/CrudCrm
 ---
