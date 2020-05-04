@@ -1,15 +1,43 @@
-- name: English
-  percentage: 95
+- name: Scrum
+  percentage: 80
   color: success
 
-- name: German
+- name: Agile Development
   percentage: 80
   color: secondary
 
-- name: Czech
+- name: Lean Methodology
   percentage: 70
   color: warning
 
-- name: Polish
+- name: Teamwork
+  percentage: 100
+  color: danger
+
+- name: Networking
+  percentage: 100
+  color: danger
+
+- name: Communication Skills
+  percentage: 100
+  color: danger
+
+- name: Analytical Skills
+  percentage: 100
+  color: danger
+
+- name: Attention to Detail
+  percentage: 100
+  color: danger
+
+- name: Multicultural Understanding
+  percentage: 100
+  color: danger
+
+- name: Organizational Skills
+  percentage: 100
+  color: danger
+
+- name: Time Management Skills
   percentage: 100
   color: danger
