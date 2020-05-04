@@ -4,15 +4,12 @@
     
 - name: HTML5/CSS3
   percentage: 90
-  color: danger
 
 - name: Go
   percentage: 80
-  color:
 
 - name: React
   percentage: 100
-  color:
 
 - name: Java
   percentage: 100
@@ -20,7 +17,6 @@
     
 - name: HTML5/CSS3
   percentage: 90
-  color: danger
 
 - name: Go
   percentage: 80
@@ -28,8 +24,6 @@
 
 - name: React
   percentage: 100
-  color:
 
 - name: Python
   percentage: 70
-  color: dark

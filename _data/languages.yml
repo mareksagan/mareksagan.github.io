@@ -4,12 +4,12 @@
 
 - name: German
   percentage: 80
-  color: secondary
+  color: success
 
 - name: Czech
   percentage: 70
-  color: warning
+  color: success
 
 - name: Polish
   percentage: 100
-  color: danger
+  color: success
