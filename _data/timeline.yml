@@ -2,11 +2,11 @@
   from: 2018
   to: present
   description:
-    -- Developing a competitive and user friendly marketing campaign supporting system with <b>Artificial Intelligence</b> capabilities<br>
-    -- Using the <b>Random Forest</b> and other <b>Machine Learning algorithms</b> and data structures as a basis (<b>Accord.NET</b>)<br>
-    -- Utilising the <b>.NET Core</b> technology for the back end development (<b>ASP.NET Core 2, Web API 2</b>)<br>
-    -- Developing the front end using <b>ReactJS</b> and Recharter<br>
-    -- Using the <b>Entity Framework Core</b> as the ORM
+    - Developing a competitive and user friendly marketing campaign supporting system with <b>Artificial Intelligence</b> capabilities
+    - Using the <b>Random Forest</b> and other <b>Machine Learning algorithms</b> and data structures as a basis (<b>Accord.NET</b>)
+    - Utilising the <b>.NET Core</b> technology for the back end development (<b>ASP.NET Core 2, Web API 2</b>)
+    - Developing the front end using <b>ReactJS</b> and Recharter
+    - Using the <b>Entity Framework Core</b> as the ORM
 
 - title: Student, Harvard CS
   from: 2014
