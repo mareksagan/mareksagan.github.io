@@ -4,6 +4,8 @@ collections_dir     : docs
 data_dir            : docs/_data
 baseurl             : "/mareksagan.github.io"
 repository          : mareksagan/mareksagan.github.io
+title               : Marek Sagan
+description         : Java / Angular Developer - Personal Blog
 
 
 ### Navbar Settings ###
