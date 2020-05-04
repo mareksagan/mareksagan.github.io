@@ -1,8 +1,8 @@
 ---
-name: The Movies Projects
-tools: [C#, XML, WPF]
-image: https://www.sketchappsources.com/resources/source-image/movie-badges-jurajjurik.png
-description: This project has an individual showcase page, not just a direct link to the project site or repo. Now you have more space to describe your awesome project!
+name: MarketingDataPReditions
+tools: c#, [Random Forest, Accord.NET, .NET Core, Web API 2, ReactJS, Recharter]
+image: https://i1.wp.com/www.forest-monitor.com/wp-content/uploads/2018/07/NS_mixed_forest.jpg?fit=3872%2C2592&ssl=1
+description: User friendly marketing campaign supporting system with AI capabilities
 ---
 
 # The Movies Project
