@@ -2,7 +2,6 @@
 layout: page
 title: Consulting
 permalink: /consulting/
-weight: 3
 ---
 
 # **Consulting**
