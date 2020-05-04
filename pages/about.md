@@ -6,7 +6,9 @@ weight: 4
 ---
 
 # **About me**
-4+ years of hands on web development. Self driven, dedicated and problem solving software engineering professional. Passionate and creative about Object Oriented Programming software development. Looking for remote contracts or full-time positions.
+4+ years of hands on web development. Self driven, dedicated and problem solving software engineering professional.
+Passionate and creative about Object Oriented Programming software development.<br>
+Looking for <b>remote contracts or full-time position</b>
 
 # **Resume / CV**
 <a href="{{ site.author.resume }}">Here!</a>
