@@ -63,6 +63,7 @@ plugins:
   - jekyll-gist
   - jekyll-github-metadata
   - jekyll-include-cache
+  - jekyll-sitemap
   - jemoji
 
 
