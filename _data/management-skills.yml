@@ -4,18 +4,23 @@
 
 - name: Agile Development
   percentage: 80
+  color: secondary
 
 - name: Lean Methodology
   percentage: 70
+  color: secondary
 
 - name: Teamwork
   percentage: 100
+  color: secondary
 
 - name: Networking
   percentage: 100
+  color: secondary
 
 - name: Communication Skills
   percentage: 100
+  color: secondary
 
 - name: Analytical Skills
   percentage: 100
@@ -23,18 +28,23 @@
 
 - name: Attention to Detail
   percentage: 100
+  color: secondary
 
 - name: Multicultural Understanding
   percentage: 100
+  color: secondary
 
 - name: Organizational Skills
   percentage: 100
+  color: secondary
 
 - name: Time Management Skills
   percentage: 100
+  color: secondary
 
 - name: Presentation Skills
   percentage: 100
+  color: secondary
 
 - name: Verbal Communication Skills
   percentage: 100
@@ -42,38 +52,48 @@
 
 - name: Interpersonal Skills
   percentage: 100
+  color: secondary
 
 - name: Collaboration
   percentage: 100
+  color: secondary
 
 - name: Integrity
   percentage: 100
+  color: secondary
 
 - name: Leadership Skills
   percentage: 100
+  color: secondary
 
 - name: Kanban
   percentage: 100
-  color: danger
+  color: secondary
 
 - name: Ability To Work Independently
   percentage: 100
+  color: secondary
 
 - name: Ability To Prioritize
   percentage: 100
+  color: secondary
 
 - name: Mentorship Skills
   percentage: 100
+  color: secondary
 
 - name: Coaching Skills
   percentage: 100
+  color: secondary
 
 - name: Project Management Skills
   percentage: 100
-  color: danger
+  color: secondary
 
 - name: Product Management Skills
   percentage: 100
+  color: secondary
 
 - name: Recruitment
   percentage: 100
+  color: secondary
