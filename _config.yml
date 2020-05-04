@@ -1,7 +1,6 @@
 ### Site Settings ###
 source              : ../
 baseurl             : /
-repository          : mareksagan/mareksagan.github.io
 title               : "Marek Sagan"
 description         : "Java / Angular Developer"
 
