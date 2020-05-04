@@ -14,9 +14,9 @@ Looking for <b>remote contracts or full-time position</b>
 <a href="{{ site.author.resume }}">Here!</a>
 
 <div class="row">
-{% include about/skills.html title="Technical skills" source=site.data.technical-skills %}
-{% include about/skills.html title="Management skills" source=site.data.management-skills %}
-{% include about/skills.html title="Languages" source=site.data.languages %}
+{% include about/skills.html title="Technical" source=site.data.technical-skills %}
+{% include about/skills.html title="Management" source=site.data.management-skills %}
+{% include about/skills.html title="Team" source=site.data.management-skills %}
 {% include about/skills.html title="Languages" source=site.data.languages %}
 </div>
 
