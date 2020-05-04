@@ -4,7 +4,7 @@
 
 - name: German
   percentage: 80
-  color: light
+  color: secondary
 
 - name: Czech
   percentage: 70

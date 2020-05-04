@@ -15,8 +15,8 @@ Hi, I'm <b>{{site.author.name}}</b>, the CEO of a consulting company called <b>M
 <a href="{{ site.author.resume }}">Here!</a>
 
 <div class="row">
-{% include about/skills.html title="Technical Skills" source=site.data.programming-skills %}
-{% include about/skills.html title="Spoken languages" source=site.data.other-skills %}
+{% include about/skills.html title="Technical skills" source=site.data.programming-skills %}
+{% include about/skills.html title="Language fluency" source=site.data.other-skills %}
 </div>
 
 <div class="row">
