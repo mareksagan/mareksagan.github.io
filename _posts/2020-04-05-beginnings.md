@@ -2,7 +2,7 @@
 title: Beginnings!
 tags: [Social Media, Technology]
 style: 
-color: 
+color: blue
 description: Introduction to my blog and what we do
 ---
 

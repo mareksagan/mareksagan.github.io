@@ -2,15 +2,20 @@
   from: 2018
   to: present
   description:
-    - Developing a competitive and user friendly marketing campaign supporting system with <b>Artificial Intelligence</b> capabilities<br><br>
-    
-    - Using the <b>Random Forest</b> and other <b>Machine Learning algorithms</b> and data structures as a basis (<b>Accord.NET</b>)<br><br>
-    
-    - Utilising the <b>.NET Core</b> technology for the back end development (<b>ASP.NET Core 2, Web API 2</b>)<br><br>
-    
-    - Developing the front end using <b>ReactJS</b> and Recharter<br><br>
-    
-    - Using the <b>Entity Framework Core</b> as the ORM<br>
+    • Developing a competitive and user friendly marketing campaign supporting system with <b>Artificial Intelligence</b> capabilities<br>
+    • Using the <b>Random Forest</b> and other <b>Machine Learning algorithms</b> and data structures as a basis (<b>Accord.NET</b>)<br>
+    • Utilising the <b>.NET Core</b> technology for the back end development (<b>ASP.NET Core 2, Web API 2</b>)<br>
+    • Developing the front end using <b>ReactJS</b> and Recharter<br>
+    • Using the <b>Entity Framework Core</b> as the ORM<br>
+
+- title: <b>Dotnet Developer</b>, Volkswagen AG, Czech Republic
+  from: 2018
+  to: present
+  description:
+    • Implementation of smart helper tools (<b>Windows Presentation Foundation</b>) for an internal sales support system according to the <b>Clean Code</b> best practices and technical specification
+    • Added new features and <b>refactoring</b> the world wide sales support system (C#, TypeScript, Kendo UI, HTML5, CSS3)
+    • Developing a new flexible <b>GitLab CI</b> deployment script (<b>MSBUILD, WinSCP & Windows Batch</b>)
+    • Developing new <b>indexes and stored procedures</b> for the project database (<b>T-SQL</b>)
 
 - title: Student, Harvard CS
   from: 2014
