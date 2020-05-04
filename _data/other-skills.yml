@@ -1,15 +1,15 @@
 - name: English
   percentage: 95
-  color: info
-
-- name: German
-  percentage: 90
   color: success
 
+- name: German
+  percentage: 80
+  color: light
+
 - name: Czech
-  percentage: 95
-  color: info
+  percentage: 70
+  color: warning
 
 - name: Polish
-  percentage: 95
-  color: info
+  percentage: 100
+  color: danger
