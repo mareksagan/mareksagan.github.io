@@ -1,43 +1,43 @@
 - name: Scrum
   percentage: 80
-  color: info
+  color: error
 
 - name: Agile Development
   percentage: 80
-  color: info
+  color: error
 
 - name: Lean Methodology
   percentage: 70
-  color: info
+  color: error
 
 - name: Teamwork
   percentage: 100
-  color: info
+  color: error
 
 - name: Networking
   percentage: 100
-  color: info
+  color: error
 
 - name: Communication Skills
   percentage: 100
-  color: info
+  color: error
 
 - name: Analytical Skills
   percentage: 100
-  color: info
+  color: error
 
 - name: Attention to Detail
   percentage: 100
-  color: info
+  color: error
 
 - name: Multicultural Understanding
   percentage: 100
-  color: info
+  color: error
 
 - name: Organizational Skills
   percentage: 100
-  color: info
+  color: error
 
 - name: Time Management Skills
   percentage: 100
-  color: info
+  color: error
