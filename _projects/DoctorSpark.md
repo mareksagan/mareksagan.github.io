@@ -1,7 +1,7 @@
 ---
 name: DoctorSpark
-tools: [Apache Spark, Apache Kafka Java 11, NLP, Spring Boot]
-image: https://www.sketchappsources.com/resources/source-image/project-neon-groove-music-ui.png
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+tools: [Apache Spark, Apache Kafka, Java 11, NLP, Spring Boot]
+image: https://www.scylladb.com/wp-content/uploads/800x400-blog-spark-scylla-connector.png
+description: Medical chat bot using NLP and Wikipedia (Apache Spark, Apache Kafka, Spring Boot)
 external_url: https://github.com/mareksagan/DoctorSpark
 ---
