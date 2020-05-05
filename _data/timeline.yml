@@ -4,7 +4,7 @@
   description:
     • Improving the existing server hardware returns system<br>
     • Automating the script-generation process for the mentioned system<br>
-    • Coding the report generation (SpreadsheetGear) mechanisms<br>
+    • Coding the report generation (<b>SpreadsheetGear</b>) mechanisms<br>
     • Developing new features (<b>C#, TypeScript, Kendo UI, HTML5</b>) for a sales-based reporting system<br>
     • Conducting maintenance of the <b>TypeScript</b> based end user interface features
 
@@ -38,4 +38,4 @@
 
 - title: <b>Student</b>, Bachelor of Science, Warsaw School of Computer Science
   from: 10.2014
-  to: 09.2018
+  to: 9.2018
