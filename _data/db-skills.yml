@@ -1,12 +1,12 @@
-- name: ReactJS
+- name: Microsoft SQL Server
   percentage: 100
   color: warning
 
-- name: AngularJS
+- name: Oracle Database
   percentage: 100
   color: warning
 
-- name: Single Page Application
+- name: SQL
   percentage: 70
   color: warning
   
