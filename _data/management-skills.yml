@@ -2,11 +2,11 @@
   percentage: 80
   color: danger
 
-- name: Agile
+- name: Agile Methodologies
   percentage: 80
   color: danger
 
-- name: Lean
+- name: Lean Methodologies
   percentage: 70
   color: danger
 
@@ -59,10 +59,5 @@
   color: danger
 
 - name: Recruitment
-  percentage: 20
+  percentage: 60
   color: danger
-
-
-
-
-
