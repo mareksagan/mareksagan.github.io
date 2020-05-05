@@ -10,30 +10,6 @@
   percentage: 70
   color: danger
 
-- name: Teamwork
-  percentage: 100
-  color: danger
-
-- name: Networking
-  percentage: 100
-  color: danger
-
-- name: Communication
-  percentage: 100
-  color: danger
-
-- name: Analytical
-  percentage: 100
-  color: danger
-
-- name: Attention to Detail
-  percentage: 100
-  color: danger
-
-- name: Multicultural Understanding
-  percentage: 100
-  color: danger
-
 - name: Organizational
   percentage: 100
   color: danger
@@ -46,31 +22,7 @@
   percentage: 100
   color: danger
 
-- name: Verbal Communication
-  percentage: 100
-  color: danger
-
-- name: Interpersonal
-  percentage: 100
-  color: danger
-
-- name: Collaboration
-  percentage: 100
-  color: danger
-
-- name: Integrity
-  percentage: 100
-  color: danger
-
-- name: Leadership
-  percentage: 100
-  color: danger
-
-- name: Kanban
-  percentage: 100
-  color: danger
-
-- name: Ability To Work Independently
+- name: Communication
   percentage: 100
   color: danger
 
@@ -96,4 +48,16 @@
 
 - name: Recruitment
   percentage: 20
+  color: danger
+
+- name: Integrity
+  percentage: 100
+  color: danger
+
+- name: Leadership
+  percentage: 100
+  color: danger
+
+- name: Kanban
+  percentage: 100
   color: danger
