@@ -1,5 +1,5 @@
 ---
-name: MarketingDataPreditions
+name: MarketingDataPredition
 tools: [C#, Random Forest, Accord.NET, .NET Core, Web API 2, ReactJS, Recharter]
 image: https://i1.wp.com/www.forest-monitor.com/wp-content/uploads/2018/07/NS_mixed_forest.jpg?fit=3872%2C2592&ssl=1
 description: User friendly marketing campaign supporting system with AI capabilities
@@ -8,9 +8,7 @@ description: User friendly marketing campaign supporting system with AI capabili
 # Showcase
 
 <p class="text-center">
-{% raw %}
 {% include elements/video.html id="mmtv77hkMBs" %}
-{% endraw %}
 </p>
 
 <p class="text-center">
