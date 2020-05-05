@@ -1,36 +1,36 @@
 - name: Java
   percentage: 90
-  color:
+  color: dark
 
 - name: Spring Boot
   percentage: 80
-  color:
+  color: dark
 
 - name: Spring Framework
   percentage: 100
-  color:
+  color: dark
 
 - name: Maven
   percentage: 70
-  color:
+  color: dark
   
 - name: JDBC
   percentage: 100
-  color:
+  color: dark
     
 - name: JDK
   percentage: 90
-  color:
+  color: dark
 
 - name: Oracle
   percentage: 80
-  color:
+  color: dark
 
 - name: Groovy
   percentage: 100
-  color:
+  color: dark
 
 - name: Apache Tomcat
   percentage: 70
-  color:
+  color: dark
   
