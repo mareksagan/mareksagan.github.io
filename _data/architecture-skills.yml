@@ -1,56 +1,56 @@
 - name: Jenkins
   percentage: 100
-  color: danger
+  color: 
 
 - name: Python
   percentage: 100
-  color: danger
+  color: 
 
 - name: PowerShell Scripting
   percentage: 70
-  color: danger
+  color: 
  
 - name: Bash Scripting
   percentage: 90
-  color: danger
+  color: 
 
 - name: Groovy
   percentage: 100
-  color: danger
+  color: 
 
 - name: XML
   percentage: 90
-  color: danger
+  color: 
 
 - name: JSON
   percentage: 90
-  color: danger
+  color: 
 
 - name: SOAP
   percentage: 90
-  color: danger
+  color: 
 
 - name: Git
   percentage: 90
-  color: danger
+  color: 
 
 - name: Docker
   percentage: 90
-  color: danger
+  color: 
 
 - name: Kubernetes
   percentage: 90
-  color: danger
+  color: 
 
 - name: Linux
   percentage: 90
-  color: danger
+  color: 
 
 - name: Windows Server
   percentage: 90
-  color: danger
+  color: 
 
 - name: DevOPs
   percentage: 90
-  color: danger
+  color: 
 
