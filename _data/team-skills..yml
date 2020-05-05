@@ -2,19 +2,11 @@
   percentage: 100
   color: warning
 
+- name: Collaboration
+  percentage: 100
+  color: warning
+
 - name: Networking
-  percentage: 100
-  color: warning
-
-- name: Analytical
-  percentage: 100
-  color: warning
-
-- name: Attention to Detail
-  percentage: 100
-  color: warning
-
-- name: Multicultural Understanding
   percentage: 100
   color: warning
 
@@ -26,10 +18,18 @@
   percentage: 100
   color: warning
 
-- name: Collaboration
+- name: Multicultural Understanding
+  percentage: 100
+  color: warning
+
+- name: Analytical
+  percentage: 100
+  color: warning
+
+- name: Attention to Detail
   percentage: 100
   color: warning
 
 - name: Ability To Work Independently
-  percentage: 100
+  percentage: 90
   color: warning
