@@ -2,11 +2,11 @@
   percentage: 80
   color: danger
 
-- name: Agile Development
+- name: Agile
   percentage: 80
   color: danger
 
-- name: Lean Methodology
+- name: Lean
   percentage: 70
   color: danger
 
@@ -18,11 +18,11 @@
   percentage: 100
   color: danger
 
-- name: Communication Skills
+- name: Communication
   percentage: 100
   color: danger
 
-- name: Analytical Skills
+- name: Analytical
   percentage: 100
   color: danger
 
@@ -34,23 +34,23 @@
   percentage: 100
   color: danger
 
-- name: Organizational Skills
+- name: Organizational
   percentage: 100
   color: danger
 
-- name: Time Management Skills
+- name: Time Management
   percentage: 100
   color: danger
 
-- name: Presentation Skills
+- name: Presentation
   percentage: 100
   color: danger
 
-- name: Verbal Communication Skills
+- name: Verbal Communication
   percentage: 100
   color: danger
 
-- name: Interpersonal Skills
+- name: Interpersonal
   percentage: 100
   color: danger
 
@@ -62,7 +62,7 @@
   percentage: 100
   color: danger
 
-- name: Leadership Skills
+- name: Leadership
   percentage: 100
   color: danger
 
@@ -78,19 +78,19 @@
   percentage: 100
   color: danger
 
-- name: Mentorship Skills
+- name: Mentorship
   percentage: 100
   color: danger
 
-- name: Coaching Skills
+- name: Coaching
   percentage: 100
   color: danger
 
-- name: Project Management Skills
+- name: Project Management
   percentage: 100
   color: danger
 
-- name: Product Management Skills
+- name: Product Management
   percentage: 100
   color: danger
 
