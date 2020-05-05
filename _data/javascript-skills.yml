@@ -1,19 +1,19 @@
 - name: ReactJS
   percentage: 100
-  color:
+  color: warning
 
 - name: AngularJS
   percentage: 100
-  color:
+  color: warning
 
 - name: Single Page Application
   percentage: 70
-  color:
+  color: warning
   
 - name: SCSS
   percentage: 100
-  color:
+  color: warning
 
 - name: Material Design
   percentage: 90
-  color:
+  color: warning
