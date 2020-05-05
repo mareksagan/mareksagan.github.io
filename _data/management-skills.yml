@@ -10,6 +10,30 @@
   percentage: 70
   color: danger
 
+- name: Kanban
+  percentage: 100
+  color: danger
+
+- name: Mentorship
+  percentage: 100
+  color: danger
+
+- name: Coaching
+  percentage: 100
+  color: danger
+
+- name: Leadership
+  percentage: 100
+  color: danger
+  
+- name: Project Management
+  percentage: 100
+  color: danger
+
+- name: Product Management
+  percentage: 100
+  color: danger
+
 - name: Organizational
   percentage: 100
   color: danger
@@ -30,19 +54,7 @@
   percentage: 100
   color: danger
 
-- name: Mentorship
-  percentage: 100
-  color: danger
-
-- name: Coaching
-  percentage: 100
-  color: danger
-
-- name: Project Management
-  percentage: 100
-  color: danger
-
-- name: Product Management
+- name: Integrity
   percentage: 100
   color: danger
 
@@ -50,14 +62,7 @@
   percentage: 20
   color: danger
 
-- name: Integrity
-  percentage: 100
-  color: danger
 
-- name: Leadership
-  percentage: 100
-  color: danger
 
-- name: Kanban
-  percentage: 100
-  color: danger
+
+
