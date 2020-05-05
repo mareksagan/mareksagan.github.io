@@ -1,3 +1,62 @@
+- title: <b>Back End Engineer</b>, e.stradis GmbH, Germany
+  from: 2018
+  to: present
+  description:
+    • Developing new features of and tuning the credit risk management financial products running on low latency Linux systems (Java 7, Spring 4, JavaScript, CSS, ExtJS, Atlassian JIRA, Apache Ant, SVN)<br>
+    • Involved in building and debugging the features with focus on the analytics and project management side according to the industry regulations and business requirements / standards compliance<br>
+    • Communication and proactively consulting the solutions with the management / customer representatives from the finance sector<br>
+    • Conducting performance analysis and performance tuning<br>
+    • Writing and updating technical documentation<br>
+    • Participating in the digital transformation innovation of the company<br>
+    • Remote work experience in a dynamic environment
+
+- title: <b>Senior Software Engineer</b>, DHL International GmbH, Germany
+  from: 2018
+  to: present
+  description:
+    • Programming of a Big Data driven scheduling application loading data into global application designed to support the sales process using the cloud architectures and relational databases / data warehouse (Java 8, JDBC, Apache Tomcat, Spring Boot, Oracle 12g, Ehcache, HikariCP, Teradata Vantage, MyBatis, Amazon Web Services S3, AWS SDK)<br>
+    • Delivering together with external vendors a high quality customers performance reporting application analysing and reporting operational logistics performance from a global to facility level including the target transit time (Java 8, Apache Tomcat, Spring Boot, Oracle 12g, Red Hat Enterprise Linux 7)<br>
+    • Working on a highly scalable enterprise software generating daily / weekly call plans (Java 8, Apache Tomcat, Spring Boot, Oracle 12g, Red Hat Enterprise Linux 7)
+
+- title: <b>Full Stack Developer</b>, Broadcom Inc., Czech Republic
+  from: 2018
+  to: present
+  description:
+    • Conducting innovative research and development of the new mainframe products and their APIs (Java 8, Lombok, Mockito, Spring Boot, SLF4J, JUnit, Jacoco, Jersey, Guava, Apache Velocity, Apache Commons, SonarQube, Endevor, IBM z/OS, Git)
+    • Developing a modern Cucumber End To End integration testing suite (Cucumber JVM, Selenium, test automation)
+    • Effectively creating a Jenkins Continuous Integration build pipeline including a front end validation (eslint)
+    • Making impact on the technical debt and major deficiencies in the React front end which has enabled the project delivery and for the product to enter the MVP lifecycle phase
+    • Leading the front end development and mentoring / training the junior team member (s) including code reviews and technical knowledge / technical skills transfer
+
+- title: <b>Consultant</b>, Amaris Consulting, Czech Republic
+  from: 2018
+  to: present
+  description:
+    • Developing a collaborative bidding platform (Java 11, Maven, Spring MVC, JUnit, Mockito, Hibernate / JPA, PostgreSQL, Angular 7, Protractor, NG-ZORRO, Node.js, Red Hat Enterprise Linux 7)
+    • Working on internal IT projects (ASP.NET MVC 5, jQuery, modular JS, xUnit.NET, Moq)
+
+- title: <b>Java Developer</b>, Erste Group Bank AG, Czech Republic
+  from: 2018
+  to: present
+  description:
+    • Developing a collaborative bidding platform (Java 11, Maven, Spring MVC, JUnit, Mockito, Hibernate / JPA, PostgreSQL, Angular 7, Protractor, NG-ZORRO, Node.js, Red Hat Enterprise Linux 7)
+    • Working on internal IT projects (ASP.NET MVC 5, jQuery, modular JS, xUnit.NET, Moq)
+
+- title: <b>Java Developer</b>, KBC Group N.V., Czech Republic
+  from: 2018
+  to: present
+  description:
+    • Complex systems programming and solving technical issues of a forex trading reporting service (Java 8, Apache Commons IO / Codec / Lang, Log4j, SLF4J, Dom4J, Guava, Oracle Linux 7, Maven)
+    • Developing an automation script for parsing and processing imported banking clients data using banking specific frameworks (Python 2.7, Murex MX.3, Red Hat Enterprise Linux 7)
+    • Familiarity with financial engineering and trading systems
+
+- title: <b>Web Developer</b>, ICZ N.V., Czech Republic
+  from: 2018
+  to: present
+  description:
+    • Working on public sector websites including mobile applications and the API (ASP.NET MVC 5, WebForms, Web Services, WCF, jQuery, iTextSharp, Microsoft Team Foundation Server, Microsoft Azure, Microsoft SQL Server DB)
+    • Maintaining the production systems operations
+
 - title: <b>Dotnet Developer</b>, Hewlett-Packard Enterprise, Czech Republic
   from: 2018
   to: present
