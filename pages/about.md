@@ -11,7 +11,7 @@ Passionate and creative about Object Oriented Programming software development.<
 Looking for <b>remote contracts or full-time positions</b>
 
 # **Resume / CV**
-<a href="{{ site.author.resume }}">Here!</a>
+<a href="{{ site.author.resume }}.pdf">PDF</a> or <a href="{{ site.author.resume }}.docx">DOCX</a>?
 
 # **Skills**
 <div class="row">
