@@ -20,11 +20,11 @@ Looking for <b>remote contracts or full-time positions</b>
 {% include about/skills.html title="JavaScript" source=site.data.languages %}
 </div>
 <div class="row">
-{% include about/skills.html title="Management" source=site.data.management-skills %}
-{% include about/skills.html title="Team" source=site.data.team-skills %}
+{% include about/skills.html title="Management skils" source=site.data.management-skills %}
+{% include about/skills.html title="Team skills" source=site.data.team-skills %}
 </div>
 <div class="row">
-{% include about/skills.html title="Languages" source=site.data.languages %}
+{% include about/skills.html title="Languages fluency" source=site.data.languages %}
 </div>
 
 <div class="row">
