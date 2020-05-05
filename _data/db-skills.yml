@@ -1,19 +1,19 @@
 - name: Microsoft SQL Server
   percentage: 100
-  color: warning
+  color: success
 
 - name: Oracle Database
   percentage: 100
-  color: warning
+  color: success
 
 - name: SQL
   percentage: 70
-  color: warning
+  color: success
   
 - name: SCSS
   percentage: 100
-  color: warning
+  color: success
 
 - name: Material Design
   percentage: 90
-  color: warning
+  color: success
