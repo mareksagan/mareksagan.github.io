@@ -1,7 +1,3 @@
-- name: ReactJS
-  percentage: 100
-  color:
-    
 - name: Java
   percentage: 90
   color:
@@ -10,43 +6,7 @@
   percentage: 80
   color:
 
-- name: Spirng Framework
-  percentage: 100
-  color:
-
-- name: C#
-  percentage: 100
-  color:
-    
-- name: .NET
-  percentage: 90
-  color:
-
-- name: LINQ
-  percentage: 80
-  color:
-
-- name: AngularJS
-  percentage: 100
-  color:
-
-- name: Single Page Application
-  percentage: 70
-  color:
-  
-- name: SCSS
-  percentage: 100
-  color:
-    
-- name: Material Design
-  percentage: 90
-  color:
-
-- name: Scrum
-  percentage: 80
-  color:
-
-- name: Git
+- name: Spring Framework
   percentage: 100
   color:
 
@@ -66,26 +26,6 @@
   percentage: 80
   color:
 
-- name: SQL
-  percentage: 100
-  color:
-
-- name: SQL Server
-  percentage: 70
-  color:
-  
-- name: ASP.NET Core
-  percentage: 100
-  color:
-    
-- name: ASP.NET MVC
-  percentage: 90
-  color:
-
-- name: Jenkins
-  percentage: 80
-  color:
-
 - name: Groovy
   percentage: 100
   color:
@@ -93,11 +33,4 @@
 - name: Apache Tomcat
   percentage: 70
   color:
-
-- name: IIS
-  percentage: 70
-  color:
-
-- name: WCF
-  percentage: 70
-  color:
+  
