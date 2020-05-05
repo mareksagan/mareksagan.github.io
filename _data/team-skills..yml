@@ -14,7 +14,7 @@
   percentage: 80
   color: warning
 
-- name: Interpersonal
+- name: Interpersonal Skills
   percentage: 100
   color: warning
 
@@ -22,7 +22,7 @@
   percentage: 100
   color: warning
 
-- name: Analytical
+- name: Analytical Skills
   percentage: 100
   color: warning
 
