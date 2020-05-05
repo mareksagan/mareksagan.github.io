@@ -1,27 +1,27 @@
 - name: Organizational
   percentage: 100
-  color: danger
+  color:
 
 - name: Time Management
   percentage: 100
-  color: danger
+  color:
 
 - name: Presentation
   percentage: 100
-  color: danger
+  color:
 
 - name: Communication
   percentage: 100
-  color: danger
+  color:
 
 - name: Ability To Prioritize
   percentage: 100
-  color: danger
+  color:
 
 - name: Integrity
   percentage: 100
-  color: danger
+  color:
 
 - name: Recruitment
   percentage: 60
-  color: danger
+  color:
