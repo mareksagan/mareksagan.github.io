@@ -6,10 +6,7 @@ description: User friendly marketing campaign supporting system with AI capabili
 ---
 
 # Showcase
-
-<p class="text-center">
 {% include elements/video.html id="mmtv77hkMBs" %}
-</p>
 
 <p class="text-center">
 {% include elements/button.html link="https://github.com/mareksagan/MarketingDataPrediction" text="See more" %}
