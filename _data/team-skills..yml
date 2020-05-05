@@ -1,35 +1,35 @@
 - name: Teamwork
   percentage: 100
-  color: light
+  color: warning
 
 - name: Networking
   percentage: 100
-  color: light
+  color: warning
 
 - name: Analytical
   percentage: 100
-  color: light
+  color: warning
 
 - name: Attention to Detail
   percentage: 100
-  color: light
+  color: warning
 
 - name: Multicultural Understanding
   percentage: 100
-  color: light
+  color: warning
 
 - name: Verbal Skills
   percentage: 80
-  color: light
+  color: warning
 
 - name: Interpersonal
   percentage: 100
-  color: light
+  color: warning
 
 - name: Collaboration
   percentage: 100
-  color: light
+  color: warning
 
 - name: Ability To Work Independently
   percentage: 100
-  color: light
+  color: warning
