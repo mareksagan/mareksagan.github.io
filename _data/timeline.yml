@@ -1,3 +1,22 @@
+- title: <b>Dotnet Developer</b>, Hewlett-Packard Enterprise, Czech Republic
+  from: 2018
+  to: present
+  description:
+    • Improving the existing server hardware returns system<br>
+    • Automating the script-generation process for the mentioned system<br>
+    • Coding the report generation (SpreadsheetGear) mechanisms<br>
+    • Developing new features (<b>C#, TypeScript, Kendo UI, HTML5</b>) for a sales-based reporting system<br>
+    • Conducting maintenance of the <b>TypeScript</b> based end user interface features
+
+- title: <b>C# Developer</b>, Thinkstep AG, Czech Republic
+  from: 2018
+  to: present
+  description:
+    • Using the master workers, strategy and similar design patterns to get rid of a performance bottleneck<br>
+    • Working with the existing <b>Silverlight and HTML5</b> based front ends<br>
+    • Extending and troubleshooting the root cause of the problems of the existing web services (<b>WCF and SOAP</b>)<br>
+    • Developing a new version of the project database (<b>T-SQL</b>)
+
 - title: <b>Dotnet Developer</b>, Volkswagen AG, Czech Republic
   from: 2018
   to: present
@@ -18,5 +37,5 @@
     • Using the <b>Entity Framework Core</b> as the ORM
 
 - title: <b>Student</b>, Bachelor of Science, Warsaw School of Computer Science
-  from: 2014
-  to: 2018
+  from: 10.2014
+  to: 09.2018
