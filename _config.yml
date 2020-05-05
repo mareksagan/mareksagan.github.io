@@ -64,6 +64,7 @@ plugins:
   - jekyll-github-metadata
   - jekyll-include-cache
   - jekyll-sitemap
+  - jekyll-seo-tag
   - jemoji
 
 
