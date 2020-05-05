@@ -14,7 +14,7 @@ When you apply to jobs on LinkedIn or any other job boards, your application doe
 
 It's meant to reduce the effort of selecting the right candidates from thousandes of applicants. Based on keywords.
 
-# How do I surivive this?
+# How do I survive this?
 
 Ever saw a resume full of text that was unreadable? It was actually SEO optimized.
 
