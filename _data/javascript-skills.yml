@@ -3,17 +3,17 @@
   color: warning
 
 - name: AngularJS
-  percentage: 100
+  percentage: 80
   color: warning
 
 - name: Single Page Application
-  percentage: 90
+  percentage: 80
   color: warning
   
 - name: SCSS
-  percentage: 100
+  percentage: 80
   color: warning
 
 - name: Material Design
-  percentage: 90
+  percentage: 80
   color: warning

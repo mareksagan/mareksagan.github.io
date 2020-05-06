@@ -7,30 +7,49 @@
   color: dark
 
 - name: Spring Framework
-  percentage: 100
+  percentage: 80
   color: dark
 
 - name: Maven
-  percentage: 70
+  percentage: 80
   color: dark
   
 - name: JDBC
-  percentage: 100
+  percentage: 80
   color: dark
     
 - name: JDK
-  percentage: 90
-  color: dark
-
-- name: Oracle
   percentage: 80
   color: dark
 
 - name: Groovy
-  percentage: 100
+  percentage: 80
   color: dark
 
 - name: Apache Tomcat
-  percentage: 70
+  percentage: 80
   color: dark
-  
+
+- name: IntelliJ IDEA
+  percentage: 80
+  color: dark
+
+- name: Mockito
+  percentage: 60
+  color: dark
+
+- name: JUnit
+  percentage: 60
+  color: dark
+
+- name: JEE / J2EE
+  percentage: 40
+  color: dark
+
+- name: Eclipse
+  percentage: 40
+  color: dark
+
+- name: Red Hat Drools
+  percentage: 40
+  color: dark

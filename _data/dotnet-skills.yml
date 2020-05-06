@@ -1,9 +1,9 @@
 - name: C#
-  percentage: 100
+  percentage: 80
   color:
     
 - name: .NET
-  percentage: 90
+  percentage: 80
   color:
 
 - name: LINQ
@@ -11,25 +11,34 @@
   color:
   
 - name: NuGet
-  percentage: 100
-  color:
-
-- name: Microsoft SQL Server
-  percentage: 70
+  percentage: 80
   color:
   
 - name: ASP.NET Core
-  percentage: 100
+  percentage: 80
   color:
     
 - name: ASP.NET MVC
-  percentage: 90
+  percentage: 80
   color:
 
 - name: IIS
-  percentage: 70
+  percentage: 80
   color:
 
 - name: WCF
-  percentage: 70
+  percentage: 80
   color:
+
+- name: Visual Studio
+  percentage: 80
+  color:
+
+- name: Microsoft Dynamics CRM
+  percentage: 60
+  color:
+
+- name: Sitecore CMS
+  percentage: 60
+  color:
+  

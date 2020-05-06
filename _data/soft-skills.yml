@@ -1,27 +1,27 @@
-- name: Organizational
-  percentage: 100
+- name: Organizational Skills
+  percentage: 80
   color:
 
-- name: Time Management
-  percentage: 100
+- name: Time Management Skills
+  percentage: 80
   color:
 
-- name: Presentation
-  percentage: 100
+- name: Presentation Skills
+  percentage: 80
   color:
 
-- name: Communication
-  percentage: 100
-  color:
-
-- name: Ability To Prioritize
-  percentage: 100
+- name: Communication Skills
+  percentage: 80
   color:
 
 - name: Integrity
-  percentage: 100
+  percentage: 80
+  color:
+
+- name: Ability To Prioritize
+  percentage: 60
   color:
 
 - name: Recruitment
-  percentage: 60
+  percentage: 40
   color:
