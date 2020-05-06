@@ -29,7 +29,3 @@
 - name: PM Skills
   percentage: 40
   color: danger
-
-- name: Product Management
-  percentage: 40
-  color: danger

@@ -17,3 +17,11 @@
 - name: Material Design
   percentage: 80
   color: warning
+
+- name: Bootstrap
+  percentage: 60
+  color: warning
+
+- name: CSS
+  percentage: 60
+  color: warning
