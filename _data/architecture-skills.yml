@@ -1,56 +1,56 @@
-- name: Jenkins
+- name: Software Engineering
+  percentage: 80
+  color: 
+
+- name: Open Source
   percentage: 100
   color: 
 
-- name: Python
-  percentage: 100
-  color: 
-
-- name: PowerShell Scripting
-  percentage: 70
+- name: Object Oriented Programming
+  percentage: 80
   color: 
  
-- name: Bash Scripting
-  percentage: 90
+- name: Web Technologies
+  percentage: 80
   color: 
 
-- name: Groovy
+- name: Microservices Architecture
   percentage: 100
   color: 
 
-- name: XML
+- name: Unit Tests
   percentage: 90
   color: 
 
-- name: JSON
+- name: Acceptance Testing
   percentage: 90
   color: 
 
-- name: SOAP
+- name: Service Oriented Architecture
   percentage: 90
   color: 
 
-- name: Git
+- name: Test Driven Development
   percentage: 90
   color: 
 
-- name: Docker
+- name: Unified Modelling Language
   percentage: 90
   color: 
 
-- name: Kubernetes
+- name: Business Rules Management
   percentage: 90
   color: 
 
-- name: Linux
+- name: Domain Driven Design
   percentage: 90
   color: 
 
-- name: Windows Server
+- name: Quality Assurance
   percentage: 90
   color: 
 
-- name: DevOPs
+- name: Quality Engineering
   percentage: 90
   color: 
 
