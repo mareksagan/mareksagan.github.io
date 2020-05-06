@@ -26,10 +26,10 @@
   percentage: 60
   color: danger
   
-- name: Project Management Skills
+- name: PM Skills
   percentage: 40
   color: danger
 
-- name: Product Management Skills
+- name: Product Management
   percentage: 40
   color: danger
