@@ -3,7 +3,7 @@
   color: 
 
 - name: Open Source
-  percentage: 100
+  percentage: 80
   color: 
 
 - name: Object Oriented Programming
@@ -15,42 +15,42 @@
   color: 
 
 - name: Microservices Architecture
-  percentage: 100
+  percentage: 80
   color: 
 
 - name: Unit Tests
-  percentage: 90
+  percentage: 60
   color: 
 
 - name: Acceptance Testing
-  percentage: 90
+  percentage: 60
   color: 
 
 - name: Service Oriented Architecture
-  percentage: 90
+  percentage: 60
   color: 
 
 - name: Test Driven Development
-  percentage: 90
+  percentage: 60
   color: 
 
 - name: Unified Modelling Language
-  percentage: 90
+  percentage: 60
   color: 
 
 - name: Business Rules Management
-  percentage: 90
+  percentage: 40
   color: 
 
 - name: Domain Driven Design
-  percentage: 90
+  percentage: 40
   color: 
 
 - name: Quality Assurance
-  percentage: 90
+  percentage: 40
   color: 
 
 - name: Quality Engineering
-  percentage: 90
+  percentage: 40
   color: 
 
