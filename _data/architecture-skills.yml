@@ -6,7 +6,7 @@
   percentage: 80
   color: 
 
-- name: Object Oriented Programming
+- name: OOP
   percentage: 80
   color: 
  
@@ -26,31 +26,31 @@
   percentage: 60
   color: 
 
-- name: Service Oriented Architecture
+- name: SOA
   percentage: 60
   color: 
 
-- name: Test Driven Development
+- name: TDD
   percentage: 60
   color: 
 
-- name: Unified Modelling Language
+- name: UML
   percentage: 60
   color: 
 
-- name: Business Rules Management
+- name: BRM
   percentage: 40
   color: 
 
-- name: Domain Driven Design
+- name: DDD
   percentage: 40
   color: 
 
-- name: Quality Assurance
+- name: QA
   percentage: 40
   color: 
 
-- name: Quality Engineering
+- name: QE
   percentage: 40
   color: 
 
