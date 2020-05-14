@@ -17,3 +17,11 @@
 - name: Redis
   percentage: 60
   color: success
+
+- name: Apache Solr
+  percentage: 80
+  color: success
+
+- name: Elasticsearch
+  percentage: 80
+  color: success
