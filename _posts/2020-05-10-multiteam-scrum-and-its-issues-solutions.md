@@ -20,7 +20,7 @@ Usually misscommunication and chaos.
 
 # How to prevent these issues from occuring?
 
-It takes a talented and an open-minded manager to do Scrum properly. But it also takes a better metholdology to scale Scrum - Large Scale Scrum (LeSS).
+It takes a talented and an open-minded manager to do Scrum properly and there's a general lack of them. But it also takes a better methodology to scale Scrum - Large Scale Scrum (LeSS).
 
 # What is LeSS and how does it help with the mentioned issues?
 
