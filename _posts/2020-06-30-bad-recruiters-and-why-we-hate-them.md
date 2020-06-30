@@ -21,6 +21,7 @@ Either don't work with recruitment agencies but with the client itself or ask th
 * What is the management style on that team?
 * What's the job experience of the team manager?
 * Are the team members diverse? Are they comfortable with having a foreigner on the team?
+* Are there multiple teams working on one product? What's your plan to deal with the coordination issues?
 * Is it a lead position? Will I be able to hire my own team members?
 * Is it a fully remote position or do you expect me to relocate after a while?
 

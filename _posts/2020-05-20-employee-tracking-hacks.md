@@ -18,4 +18,4 @@ It lets an authorized person to see how many breaks you took and to disable the 
 
 Ever had a *1-on-1* with your manager when you heard that you don't work enough? Or you should take less breaks? It was actually possible thanks to the *Employee Tracking Tools*.
 
-You can check the Mouse Move [here](https://www.microsoft.com/en-us/p/move-mouse/9nq4ql59xlbf?) and show your manager how dedicated you are.
+You can check the **Mouse Move** [here](https://www.microsoft.com/en-us/p/move-mouse/9nq4ql59xlbf?) and show your manager how dedicated you are.
