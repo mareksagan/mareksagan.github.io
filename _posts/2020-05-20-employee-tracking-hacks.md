@@ -12,7 +12,7 @@ When you start working, your manager usually asks you to install Skype for Busin
 
 # What is Skype Manager?
 
-It lets an authorized person to see how many breaks you took and to disable the status options in *Skype for Business / Lync / Microsoft Teams*.
+It lets an authorized person to see how many breaks you took and to disable the status options in your *Skype for Business / Lync / Microsoft Teams*.
 
 # How do I survive this?
 
