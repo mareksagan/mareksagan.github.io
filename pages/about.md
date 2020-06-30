@@ -27,6 +27,10 @@ Looking for <b>remote contracts or full-time positions</b>
 {% include about/skills.html title="DevOps" source=site.data.devops-skills %}
 </div>
 <div class="row">
+{% include about/skills.html title="Cloud" source=site.data.cloud-skills %}
+{% include about/skills.html title="Security" source=site.data.security-skills %}
+</div>
+<div class="row">
 {% include about/skills.html title="Management skills" source=site.data.management-skills %}
 {% include about/skills.html title="Team skills" source=site.data.team-skills %}
 </div>

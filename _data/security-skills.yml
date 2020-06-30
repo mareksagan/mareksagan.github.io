@@ -1,27 +1,27 @@
-- name: Amazon Web Services
+- name: Kali Linux
   percentage: 80
-  color: 
+  color: dark
 
-- name: Elastic Beanstalk
+- name: Nessus
   percentage: 80
-  color: 
+  color: dark
 
-- name: SQL
+- name: Airgeddon
   percentage: 80
-  color: 
+  color: dark
 
-- name: Apache Solr
+- name: WPA2
   percentage: 80
-  color: 
+  color: dark
 
 - name: Elasticsearch
   percentage: 80
-  color: 
+  color: dark
 
 - name: MongoDB
   percentage: 60
-  color: 
+  color: dark
 
 - name: Redis
   percentage: 60
-  color: 
+  color: dark
