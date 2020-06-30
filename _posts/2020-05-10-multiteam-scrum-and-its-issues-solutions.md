@@ -1,14 +1,12 @@
 ---
 title: Multiteam Scrum and its issues / solutions
-tags: [Social Media, Technology]
+tags: [Work, Agile, Technology]
 style: 
 color: blue
 description: Scaling Scrum - best practice?
 ---
 
-Today I would like to discuss the ATS systems and the way they work.
-
-When you apply to jobs on LinkedIn or any other job boards, your application doesn't actually go to the recruiter or HR themselves, but to the Application Tracking System.
+Today I would like to discuss the Scrum scaling issues and how to deal with them.
 
 # What is Scrum?
 
