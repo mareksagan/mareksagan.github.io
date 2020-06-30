@@ -8,7 +8,7 @@ description: The ATS systems and the way they work
 
 Today I would like to discuss the ATS systems and the way they work.
 
-When you apply to jobs on LinkedIn or any other job boards, your application doesn't actually go to the recruiter or HR themselves, but to the Application Tracking System.
+When you apply to jobs on *LinkedIn* or any other job boards, your application doesn't actually go to the recruiter or HR themselves, but to the **Application Tracking System** (usually *Oracle Taleo*).
 
 # What is ATS?
 
