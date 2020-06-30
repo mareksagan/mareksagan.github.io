@@ -1,5 +1,5 @@
 ---
-title: Employee tracking hacks
+title: Employee tracking
 tags: [Work, Technology]
 style: 
 color: blue
