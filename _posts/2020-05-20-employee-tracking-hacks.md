@@ -6,17 +6,16 @@ color: blue
 description: Mouse moving software tutorial
 ---
 
-Today I would like to discuss the ATS systems and the way they work.
+Today I would like to discuss the employee tracking tools and the way they work.
 
-When you apply to jobs on LinkedIn or any other job boards, your application doesn't actually go to the recruiter or HR themselves, but to the Application Tracking System.
+When you start working, your manager usually asks you to install Skype for Business or some other corporate IM tool. Thanks to the **Skype Manager**, an *Employee Tracking Tool*.
 
-# What is ATS?
+# What is Skype Manager?
 
-It's meant to reduce the effort of selecting the right candidates from thousandes of applicants. Based on keywords.
+It lets an authorized person to see how many breaks you took and to disable the status options in *Skype for Business / Lync / Microsoft Teams*.
 
 # How do I survive this?
 
-Ever saw a resume full of text that was unreadable? It was actually SEO optimized.
+Ever had a *1-on-1* with your manager when you heard that you don't work enough? Or you should take less breaks? It was actually possible thanks to the *Employee Tracking Tools*.
 
-You can check the optimization [here](https://www.jobscan.co/blog/resume-examples-keywords-for-software-engineers/) and increase your score thanks to that nice tool.
-
+You can check the Mouse Move [here](https://www.microsoft.com/en-us/p/move-mouse/9nq4ql59xlbf?) and show your manager how dedicated you are.
