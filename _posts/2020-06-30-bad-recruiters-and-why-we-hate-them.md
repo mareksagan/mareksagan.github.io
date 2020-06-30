@@ -26,4 +26,4 @@ Either don't work with recruitment agencies but with the client itself or ask th
 
 # What if they answer?
 
-A lying / bad manager will usually not put any effort into making you comfortable or getting to know you better, so you will save yourself a lot of time by eliminating such people out of the job search process -- they usually drop the contact or use the *YES/NO* answers.
+If they do, look for meaningful answers. A lying / bad manager will usually not put any effort into making you comfortable or getting to know you better, so you will save yourself a lot of time by eliminating such people out of the job search process -- they usually drop the contact or use the *YES/NO* answers.
