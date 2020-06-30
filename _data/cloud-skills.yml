@@ -7,11 +7,11 @@
   color: 
 
 - name: Amazon Lambda
-  percentage: 60
+  percentage: 80
   color: 
 
 - name: Amazon EC2
-  percentage: 60
+  percentage: 80
   color: 
 
 - name: Alibaba Cloud
