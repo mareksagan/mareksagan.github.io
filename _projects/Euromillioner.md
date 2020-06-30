@@ -1,7 +1,7 @@
 ---
 name: Euromillioner
-tools: [Java 8, Apache HttpClient, Selenium, Nitrite]
-image: https://www.mronemillion.com/wp-content/uploads/2019/08/MW-GG561_DJI_20_ZH_20180330105510.jpg
-description: Lightweight day trading bot based upon the VWAP algorithm implementation and the eToro web interface
+tools: [Java 8, Jsoup, Apache Spark]
+image: https://dailygazette.com/sites/default/files/styles/article_image/public/shutterstock_568876501_1_0.jpg
+description: Lottery numbers prediction application using Java 8, Jsoup & Apache Spark 
 external_url: https://github.com/mareksagan/Euromillioner
 ---
