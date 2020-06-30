@@ -12,12 +12,20 @@ When you apply to jobs on LinkedIn or any other job boards, your application doe
 
 # What is Scrum?
 
-It's meant to reduce the effort of selecting the right candidates from thousandes of applicants. Based on keywords.
+It's meant to bring more flexibility and move the projects forward by modularizing work into Sprints and bringing the teammembers closer to each other by encouraging tighter cooperation.
 
 # What happens when you add more teams to your project?
 
-Ever saw a resume full of text that was unreadable? It was actually SEO optimized.
-
-You can check the optimization [here](https://www.jobscan.co/blog/resume-examples-keywords-for-software-engineers/) and increase your score thanks to that nice tool.
+Usually misscommunication and chaos.
 
 # How to prevent these issues from occuring?
+
+It takes a talented and an open-minded manager to do Scrum properly. But it also takes a better metholdology to scale Scrum - Large Scale Scrum (LeSS).
+
+# What is LeSS and how does it help with the mentioned issues?
+
+It encourges delegation of selected people for attenting meetings instead of involving everyone in every meeting and casing you a huge headache.
+
+# How should I tell my boss about it?
+
+You can check out [this website](https://less.works/) and tell him about it. Also mention that the company is losing money thanks to daily meeting and coordination inefficiencies and he could get promoted to a senior manager by solving them.
