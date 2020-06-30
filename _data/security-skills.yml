@@ -6,22 +6,22 @@
   percentage: 80
   color: dark
 
-- name: Airgeddon
+- name: Aircrack-ng
   percentage: 80
   color: dark
 
-- name: WPA2
+- name: Hashcat
   percentage: 80
   color: dark
 
-- name: Elasticsearch
+- name: Nmap
   percentage: 80
   color: dark
 
-- name: MongoDB
+- name: Wireshark
   percentage: 60
   color: dark
 
-- name: Redis
+- name: Metasploit
   percentage: 60
   color: dark
