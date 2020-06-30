@@ -6,17 +6,24 @@ color: blue
 description: How to spot a bad recruiter / client fast
 ---
 
-Today I would like to discuss the ATS systems and the way they work.
+Today I would like to discuss the job recruitment issues and how to face them with dignity.
 
-When you apply to jobs on LinkedIn or any other job boards, your application doesn't actually go to the recruiter or HR themselves, but to the Application Tracking System.
-
-# What is ATS?
-
-It's meant to reduce the effort of selecting the right candidates from thousandes of applicants. Based on keywords.
+When you apply for jobs on LinkedIn or other job boards, you usually get a lot of *recruitment SPAM*.
+It's better to focus time and energy on something more meaningful than having pointless and exhausting interviews that yield little to no results, or worse, they land you a bad job on a failing project.
 
 # How do I survive this?
 
-Ever saw a resume full of text that was unreadable? It was actually SEO optimized.
+Either don't work with recruitment agencies but with the client itself or ask them meaningful questions in regard to the job.
 
-You can check the optimization [here](https://www.jobscan.co/blog/resume-examples-keywords-for-software-engineers/) and increase your score thanks to that nice tool.
+# Sample (meaningful) questions
 
+* What are the expectations towards me?
+* What is the management style on that team?
+* What's the job experience of the team manager?
+* Are the team members diverse? Are they comfortable with having a foreigner on the team?
+* Is it a lead position? Will I be able to hire my own team members?
+* Is it a fully remote position or do you expect me to relocate after a while?
+
+# What if they answer?
+
+If they do, look for meaningful answers, not *YES/NO*. A lying / bad manager will usually not put any effort into making you comfortable or getting to know you better, so you will save yourself a lot of time by eliminating such people out of the job search process (they usually drop the contact or use the *YES/NO* answers). Let them show you how much they care about you!
