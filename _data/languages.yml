@@ -14,6 +14,10 @@
   percentage: 70
   color: success
 
+- name: Kannada
+  percentage: 40
+  color: success
+
 - name: Polish
   percentage: 100
   color: success
