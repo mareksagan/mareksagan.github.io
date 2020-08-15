@@ -1,5 +1,5 @@
 ---
-title: The Personal MBA
+title: Weekend MBA
 tags: [Work, Technology]
 style: 
 color: blue
