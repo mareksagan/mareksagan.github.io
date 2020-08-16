@@ -14,7 +14,7 @@ Either don't work with recruitment agencies but with the client itself or ask th
 
 # What is the Weekend MBA?
 
-It's a concise course based upon **The Personal MBA** reading list book summaries. The summaries chosen have been compared with the original books and are good enough to be used for knowledge transfer.
+It's a concise course based upon (**The Personal MBA**)[https://personalmba.com/] reading list book summaries. The summaries chosen have been compared with the original books and are good enough to be used for knowledge transfer.
 
 # Why do I need this?
 
