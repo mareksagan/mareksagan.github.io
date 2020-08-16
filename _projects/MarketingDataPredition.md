@@ -1,7 +1,7 @@
 ---
 name: MarketingDataPredition
 tools: [C#, Random Forest, Accord.NET, .NET Core, Web API 2, ReactJS, Recharter]
-image: "/assets/img/mdp.jpg"
+image: "/assets/images/mdp.jpg"
 description: User friendly marketing campaign supporting system with AI capabilities
 ---
 
