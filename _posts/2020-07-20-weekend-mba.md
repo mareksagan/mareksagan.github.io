@@ -1,30 +1,27 @@
 ---
 title: Weekend MBA
-tags: [Work, Technology]
+tags: [Work, Technology, Business, MBA]
 style: 
 color: blue
 description: How to learn business and marketing efficiently
 ---
 
-Today I would like to discuss the job recruitment issues and how to face them with dignity.
+Let's talk about business skills and why they are **more** important than technical skills, and how to aquire the efficiently.
 
-When you apply for jobs on LinkedIn or other job boards, you usually get a lot of *recruitment SPAM*.
-It's better to focus time and energy on something more meaningful than having pointless and exhausting interviews that yield little to no results, or worse, they land you a bad job on a failing project.
-
-# How do I survive this?
+# What are business skills?
 
 Either don't work with recruitment agencies but with the client itself or ask them meaningful questions in regard to the job.
 
-# Sample (meaningful) questions
+# What is the Weekend MBA?
 
-* What are the expectations towards me?
-* What is the management style on that team?
-* What's the job experience of the team manager?
-* Are the team members diverse? Are they comfortable with having a foreigner on the team?
-* Are there multiple teams working on one product? What's your plan to deal with the coordination issues?
-* Is it a lead position? Will I be able to hire my own team members?
-* Is it a fully remote position or do you expect me to relocate after a while?
+It's a concise course based upon **The Personal MBA** reading list book summaries. The summaries chosen have been compared with the original books and are good enough to be used for knowledge transfer.
 
-# What if they answer?
+# Why do I need this?
 
-If they do, look for meaningful answers. A lying / bad manager will usually not put any effort into making you comfortable or getting to know you better, so you will save yourself a lot of time by eliminating such people out of the job search process -- they usually drop the contact or use the *YES/NO* answers.
+Do you work overtime for free? Do you have an impression that your manager hates you? Did you ever experience racist treatment at work and didn't know how to act on it?
+
+By becoming excellent at business, you will be able to find better (contract) jobs and avoid such situations altogether.
+
+# I work overtime (or not) and I don't have time to learn, what do I do?
+
+Read the backup of **The Personal MBA** reading list book summaries [here](https://github.com/mareksagan/WeekendMBA).
