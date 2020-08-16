@@ -3,7 +3,8 @@ source              : ../
 baseurl             : /
 repository          : mareksagan
 title               : "Java / Angular Developer"
-description         : "Java / AngularJS Software Developer looking for new opportunities"
+company             : "MARIS"
+description         : "Java / Angular Software Developer looking for new opportunities"
 
 
 ### Navbar Settings ###
