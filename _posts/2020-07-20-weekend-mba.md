@@ -21,8 +21,8 @@ It's a concise course based upon **The Personal MBA** reading list book summarie
 Do you work overtime for free? Do you have an impression that your manager hates you? Did you ever experience racist treatment at work and didn't know how to act on it?
 Or do you want to start your own business but feel overwhelmed by the amount of work involved?
 
-By becoming excellent at business, you will be able to find better (contract) jobs and avoid such bad situations altogether.
+By becoming excellent at business, you will be able to find better (contract) jobs and avoid such bad situations altogether. You will be able to grow your career faster as well.
 
-# I work overtime (or not) and I don't have time to learn, what do I do?
+# I don't have time to learn, what do I do?
 
 Read the backup of **The Personal MBA** reading list book summaries [here](https://github.com/mareksagan/WeekendMBA).
