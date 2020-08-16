@@ -25,4 +25,4 @@ By becoming excellent at business, you will be able to find better (contract) jo
 
 # I don't have time to learn, what do I do?
 
-Read the backup of **The Personal MBA** reading list book summaries [here](https://github.com/mareksagan/WeekendMBA).
+Read the backup of [**The Personal MBA** reading list](https://personalmba.com/best-business-books/) book summaries [here](https://github.com/mareksagan/WeekendMBA).
