@@ -8,10 +8,6 @@ description: How to learn business and marketing efficiently
 
 Let's talk about business skills and why they are **more** important than technical skills, and how to aquire the efficiently.
 
-# What are business skills?
-
-Either don't work with recruitment agencies but with the client itself or ask them meaningful questions in regard to the job.
-
 # What is the Weekend MBA?
 
 It's a concise course based upon [The Personal MBA](https://personalmba.com/) reading list book summaries. The summaries chosen have been compared with the original books and are good enough to be used for knowledge transfer.
