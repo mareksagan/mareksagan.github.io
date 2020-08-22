@@ -1,10 +1,10 @@
 ### Site Settings ###
-source              : ../
-baseurl             : /
-repository          : mareksagan
-title               : "Java / Angular Developer"
-company             : "MARIS"
-description         : "Java / Angular Software Developer looking for new contract (s)"
+source: ../
+baseurl: /
+repository: mareksagan
+title: Java / Angular Developer
+company: MARIS
+description: Java / Angular Software Developer looking for new contract (s)
 
 
 ### Navbar Settings ###
@@ -15,6 +15,18 @@ nav_exclude:
   - docs/pages/documentation/**
 
 
+### SEO ###
+tagline:
+logo: https://avatars0.githubusercontent.com/u/17403762
+lang: en_US
+social:
+  name: Marek Sagan
+  links:
+    - https://www.linkedin.com/in/mareksagan
+    - https://stackoverflow.com/users/6444452/marek-sagan
+    - https://github.com/mareksagan/
+google_site_verification: 5xKbeRW3pODPz9_ZEcb1koZii9FckbF_qx7m-sLuiOU
+
 ### Author Info ###
 author:
   name: Marek Sagan
@@ -22,8 +34,8 @@ author:
   email: marek.sagan@protonmail.com
   github: mareksagan
   linkedin: marek-sagan
-  stackoverflow: "6444452"
-  phone: "0048737878782"
+  stackoverflow: 6444452
+  phone: 0048737878782
   resume: https://github.com/mareksagan/Resume/raw/master/Marek_Sagan_JavaAngularDev
 
 
