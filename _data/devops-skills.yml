@@ -34,6 +34,10 @@
   percentage: 80
   color: danger
 
+- name: Ansible
+  percentage: 80
+  color: danger
+
 - name: Team Foundation Server
   percentage: 80
   color: danger
