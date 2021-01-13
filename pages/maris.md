@@ -19,7 +19,7 @@ Hi, I'm <b>{{site.author.name}}</b>, the CEO of a consulting company called <b>M
 We offer cloud <b>(AWS / Azure / Google Cloud)</b> and DevOps <b>(Docker / Puppet / Linux)</b> technology / certification training.
 
 # **SEO**
-We also help design websites and feel competent in the Search Engine Optimization field.
+We also help design websites and feel competent in the <b>Search Engine Optimization</b> field.
 
 # **We're hiring**
 We're constantly looking for talented Java developers, especially with Machine Learning, banking or public sector project experience. If you think you're one of them, please, feel free to <a href="mailto:marek.sagan+recruitment@protonmail.com?subject=Java%20Developer%20application&body=Hello%20there,%0D%0A%0D%0AI%20would%20like%20to%20apply%20for%20a%20Java%20role%20at%20Maris.%0D%0A%0D%0ARegards,%0D%0A">contact me!</a>
