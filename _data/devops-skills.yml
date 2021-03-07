@@ -38,10 +38,6 @@
   years: 4
   color: danger
 
-- name: Team Foundation Server
-  years: 4
-  color: danger
-
 - name: Docker
   years: 3
   color: danger
@@ -53,12 +49,3 @@
 - name: Linux
   years: 3
   color: danger
-
-- name: Windows Server
-  years: 2
-  color: danger
-
-- name: DevOps
-  years: 2
-  color: danger
-
