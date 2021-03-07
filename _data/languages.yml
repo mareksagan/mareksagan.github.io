@@ -1,23 +1,19 @@
 - name: English
-  percentage: 90
+  value: 3
   color: success
 
 - name: German
-  percentage: 80
+  value: 3
   color: success
 
 - name: Czech
-  percentage: 70
+  value: 3
   color: success
 
 - name: Mandarin Chinese
-  percentage: 70
-  color: success
-
-- name: Hindi
-  percentage: 40
+  value: 3
   color: success
 
 - name: Polish
-  percentage: 100
+  value: 3
   color: success
