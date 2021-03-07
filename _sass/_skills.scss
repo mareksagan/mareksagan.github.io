@@ -66,8 +66,8 @@
   background: $dark;
 }
 
-@for $i from 0 through 100 {
+@for $i from 0 through 10 {
   .skill-#{$i} {
-    width: percentage($i/100);
+    width: $i/10;
   }
 }

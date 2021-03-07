@@ -42,70 +42,10 @@
     • Developing a collaborative bidding platform (<b>Java 11, Maven, Spring MVC, JUnit, Mockito, Hibernate / JPA, PostgreSQL, Angular 7, Protractor, NG-ZORRO, Node.js, Red Hat Enterprise Linux 7</b>)<br>
     • Working on internal IT projects (<b>ASP.NET MVC 5, jQuery, modular JS, xUnit.NET, Moq</b>)
 
-- title: <b>Java Developer</b>, Erste Group Bank AG, Czech Republic
-  from: 2.2019
-  to: 4.2019
-  description:
-    • Developing a collaborative bidding platform (<b>Java 11, Maven, Spring MVC, JUnit, Mockito, Hibernate / JPA, PostgreSQL, Angular 7, Protractor, NG-ZORRO, Node.js, Red Hat Enterprise Linux 7</b>)<br>
-    • Working on internal IT projects (<b>ASP.NET MVC 5, jQuery, modular JS, xUnit.NET, Moq</b>)
+- title: Master of Science, Warsaw School of Computer Science
+  from: 2021
+  to: 2022
 
-- title: <b>Java Developer</b>, KBC Group N.V., Czech Republic
-  from: 12.2018
-  to: 2.2019
-  description:
-    • Complex systems programming and solving technical issues of a forex trading reporting service (<b>Java 8, Apache Commons IO / Codec / Lang, Log4j, SLF4J, Dom4J, Guava, Oracle Linux 7, Maven</b>)<br>
-    • Developing an automation script for parsing and processing imported banking clients data using banking specific frameworks (<b>Python 2.7, Murex MX.3, Red Hat Enterprise Linux 7</b>)<br>
-    • Familiarity with <b>financial engineering and trading systems</b>
-
-- title: <b>Web Developer</b>, ICZ N.V., Czech Republic
-  from: 11.2018
-  to: 1.2019
-  description:
-    • Working on public sector websites including mobile applications and the API (<b>ASP.NET MVC 5, WebForms, Web Services, WCF, jQuery, iTextSharp, Microsoft Team Foundation Server, Microsoft Azure, Microsoft SQL Server DB</b>)<br>
-    • Maintaining the production systems operations
-
-- title: <b>Dotnet Developer</b>, Hewlett-Packard Enterprise, Czech Republic
-  from: 2.2018
-  to: 3.2018
-  description:
-    • Improving the existing server hardware returns system<br>
-    • Automating the script-generation process for the mentioned system<br>
-    • Coding the report generation (<b>SpreadsheetGear</b>) mechanisms<br>
-    • Developing new features (<b>C#, TypeScript, Kendo UI, HTML5</b>) for a sales-based reporting system<br>
-    • Conducting maintenance of the <b>TypeScript</b> based end user interface features
-
-- title: <b>C# Developer</b>, Thinkstep AG, Czech Republic
-  from: 1.2018
-  to: 2.2018
-  description:
-    • Using the master workers, strategy and similar design patterns to get rid of a performance bottleneck<br>
-    • Working with the existing <b>Silverlight and HTML5</b> based front ends<br>
-    • Extending and troubleshooting the root cause of the problems of the existing web services (<b>WCF and SOAP</b>)<br>
-    • Developing a new version of the project database (<b>T-SQL</b>)
-
-- title: <b>Dotnet Developer</b>, Volkswagen AG, Czech Republic
-  from: 12.2017
-  to: 1.2018
-  description:
-    • Implementation of smart helper tools (<b>Windows Presentation Foundation</b>) for an internal sales support system according to the <b>Clean Code</b> best practices and technical specification<br>
-    • Added new features and <b>refactoring</b> the world wide sales support system (<b>C#, TypeScript, Kendo UI, HTML5, CSS3</b>)<br>
-    • Developing a new flexible <b>GitLab CI</b> deployment script (<b>MSBUILD, WinSCP & Windows Batch</b>)<br>
-    • Developing new <b>indexes and stored procedures</b> for the project database (<b>T-SQL</b>)
-
-- title: <b>Marketing Data Prediction</b>, Warsaw School of Computer Science, Poland
-  from: 3.2016
-  to: 6.2018
-  description:
-    • Developing a competitive and user friendly marketing campaign supporting system with <b>Artificial Intelligence</b> capabilities<br>
-    • Using the <b>Random Forest</b> and other <b>Machine Learning algorithms</b> and data structures as a basis (<b>Accord.NET</b>)<br>
-    • Utilising the <b>.NET Core</b> technology for the back end development (<b>ASP.NET Core 2, Web API 2</b>)<br>
-    • Developing the front end using <b>ReactJS</b> and <b>Recharter</b><br>
-    • Using the <b>Entity Framework Core</b> as the ORM
-
-- title: <b>The Personal MBA</b>, WORLDLY WISDOM VENTURES LLC
-  from: "06.2020"
-  to: "07.2020"
-
-- title: <b>Student</b>, Bachelor of Science, Warsaw School of Computer Science
-  from: 10.2014
-  to: 9.2018
+- title: Bachelor of Science, Warsaw School of Computer Science
+  from: 2014
+  to: 2018
