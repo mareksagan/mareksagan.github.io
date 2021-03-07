@@ -26,17 +26,10 @@ Looking for <b>remote contract (s)</b>.
 {% include about/skills.html title="Software Architecture" source=site.data.architecture-skills %}
 {% include about/skills.html title="DevOps" source=site.data.devops-skills %}
 </div>
-<div class="row">
-{% include about/skills.html title=".NET" source=site.data.dotnet-skills %}
-{% include about/skills.html title="Security" source=site.data.security-skills %}
 </div>
 <div class="row">
 {% include about/skills.html title="Management skills" source=site.data.management-skills %}
 {% include about/skills.html title="Team skills" source=site.data.team-skills %}
-</div>
-<div class="row">
-{% include about/skills.html title="Soft skills" source=site.data.soft-skills %}
-{% include about/skills.html title="Languages fluency" source=site.data.languages %}
 </div>
 
 # **Experience**
