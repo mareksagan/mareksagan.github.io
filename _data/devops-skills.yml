@@ -1,64 +1,64 @@
 - name: Jenkins
-  percentage: 80
+  years: 4
   color: danger
 
 - name: Python
-  percentage: 80
+  years: 4
   color: danger
 
 - name: PowerShell Scripting
-  percentage: 80
+  years: 4
   color: danger
  
 - name: Bash Scripting
-  percentage: 80
+  years: 4
   color: danger
 
 - name: XML
-  percentage: 80
+  years: 4
   color: danger
 
 - name: JSON
-  percentage: 80
+  years: 4
   color: danger
 
 - name: SOAP
-  percentage: 80
+  years: 4
   color: danger
 
 - name: REST
-  percentage: 80
+  years: 4
   color: danger
 
 - name: Git
-  percentage: 80
+  years: 4
   color: danger
 
 - name: Ansible
-  percentage: 80
+  years: 4
   color: danger
 
 - name: Team Foundation Server
-  percentage: 80
+  years: 4
   color: danger
 
 - name: Docker
-  percentage: 60
+  years: 3
   color: danger
 
 - name: Kubernetes
-  percentage: 60
+  years: 3
   color: danger
 
 - name: Linux
-  percentage: 60
+  years: 3
   color: danger
 
 - name: Windows Server
-  percentage: 40
+  years: 2
   color: danger
 
 - name: DevOps
-  percentage: 40
+  years: 2
   color: danger
 

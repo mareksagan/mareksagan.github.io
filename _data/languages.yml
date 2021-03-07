@@ -1,19 +1,19 @@
 - name: English
-  value: 3
+  years: 3
   color: success
 
 - name: German
-  value: 3
+  years: 3
   color: success
 
 - name: Czech
-  value: 3
+  years: 3
   color: success
 
 - name: Mandarin Chinese
-  value: 3
+  years: 3
   color: success
 
 - name: Polish
-  value: 3
+  years: 3
   color: success

@@ -1,32 +1,32 @@
 - name: Amazon Web Services
-  percentage: 80
+  years: 4
   color: 
 
 - name: Elastic Beanstalk
-  percentage: 80
+  years: 4
   color: 
 
 - name: Amazon Lambda
-  percentage: 80
+  years: 4
   color: 
 
 - name: Amazon EC2
-  percentage: 80
+  years: 4
   color: 
 
 - name: Alibaba Cloud
-  percentage: 80
+  years: 4
   color: 
 
 - name: Google Cloud
-  percentage: 80
+  years: 4
   color: 
 
 - name: Google App Engine
-  percentage: 80
+  years: 4
   color: 
 
 - name: Microsoft Azure
-  percentage: 60
+  years: 3
   color: 
 

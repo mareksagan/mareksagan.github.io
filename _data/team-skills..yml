@@ -1,35 +1,35 @@
 - name: Teamwork
-  percentage: 80
+  years: 4
   color: warning
 
 - name: Collaboration
-  percentage: 80
+  years: 4
   color: warning
 
 - name: Networking
-  percentage: 80
+  years: 4
   color: warning
 
 - name: Verbal Communication Skills
-  percentage: 80
+  years: 4
   color: warning
 
 - name: Interpersonal Skills
-  percentage: 80
+  years: 4
   color: warning
 
 - name: Multicultural Understanding
-  percentage: 80
+  years: 4
   color: warning
 
 - name: Analytical Skills
-  percentage: 80
+  years: 4
   color: warning
 
 - name: Attention to Detail
-  percentage: 80
+  years: 4
   color: warning
 
 - name: Independent Work
-  percentage: 60
+  years: 3
   color: warning

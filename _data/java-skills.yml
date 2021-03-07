@@ -1,55 +1,55 @@
 - name: Java
-  percentage: 90
+  years: 90
   color: dark
 
 - name: Spring Boot
-  percentage: 80
+  years: 4
   color: dark
 
 - name: Spring Framework
-  percentage: 80
+  years: 4
   color: dark
 
 - name: Maven
-  percentage: 80
+  years: 4
   color: dark
   
 - name: JDBC
-  percentage: 80
+  years: 4
   color: dark
     
 - name: JDK
-  percentage: 80
+  years: 4
   color: dark
 
 - name: Groovy
-  percentage: 80
+  years: 4
   color: dark
 
 - name: Apache Tomcat
-  percentage: 80
+  years: 4
   color: dark
 
 - name: IntelliJ IDEA
-  percentage: 80
+  years: 4
   color: dark
 
 - name: Mockito
-  percentage: 60
+  years: 3
   color: dark
 
 - name: JUnit
-  percentage: 60
+  years: 3
   color: dark
 
 - name: JEE / J2EE
-  percentage: 40
+  years: 2
   color: dark
 
 - name: Eclipse
-  percentage: 40
+  years: 2
   color: dark
 
 - name: Drools
-  percentage: 40
+  years: 2
   color: dark

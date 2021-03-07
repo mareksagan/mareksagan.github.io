@@ -1,5 +1,5 @@
 ---
-title: ATS systems and why we hate them
+title: ATS systems and how to deal with them
 tags: [Social Media, Technology]
 style: 
 color: blue
@@ -16,7 +16,7 @@ It's meant to reduce the effort of selecting the right candidates from thousande
 
 # How do I survive this?
 
-Ever saw a resume full of text that was unreadable? It was actually SEO optimized.
+Ever saw a multi-page resume full of text that was unreadable? It was actually SEO optimized.
 
 You can check the optimization [here](https://www.jobscan.co/blog/resume-examples-keywords-for-software-engineers/) and increase your score thanks to that nice tool.
 

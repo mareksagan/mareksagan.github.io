@@ -1,44 +1,44 @@
 - name: C#
-  percentage: 80
+  years: 4
   color:
     
 - name: .NET
-  percentage: 80
+  years: 4
   color:
 
 - name: LINQ
-  percentage: 80
+  years: 4
   color:
   
 - name: NuGet
-  percentage: 80
+  years: 4
   color:
   
 - name: ASP.NET Core
-  percentage: 80
+  years: 4
   color:
     
 - name: ASP.NET MVC
-  percentage: 80
+  years: 4
   color:
 
 - name: IIS
-  percentage: 80
+  years: 4
   color:
 
 - name: WCF
-  percentage: 80
+  years: 4
   color:
 
 - name: Visual Studio
-  percentage: 80
+  years: 4
   color:
 
 - name: Microsoft Dynamics CRM
-  percentage: 60
+  years: 3
   color:
 
 - name: Sitecore CMS
-  percentage: 60
+  years: 3
   color:
   

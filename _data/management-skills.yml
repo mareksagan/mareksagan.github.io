@@ -1,31 +1,31 @@
 - name: Scrum
-  percentage: 80
+  years: 4
   color: danger
 
 - name: Agile Development
-  percentage: 80
+  years: 4
   color: danger
 
 - name: Lean Methodology
-  percentage: 80
+  years: 4
   color: danger
 
 - name: Kanban
-  percentage: 60
+  years: 3
   color: danger
 
 - name: Mentorship Skills
-  percentage: 60
+  years: 3
   color: danger
 
 - name: Coaching Skills
-  percentage: 60
+  years: 3
   color: danger
 
 - name: Leadership Skills
-  percentage: 60
+  years: 3
   color: danger
   
 - name: PM Skills
-  percentage: 40
+  years: 2
   color: danger

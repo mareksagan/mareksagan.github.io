@@ -1,27 +1,27 @@
 - name: Kali Linux
-  percentage: 80
+  years: 4
   color: dark
 
 - name: Nessus
-  percentage: 80
+  years: 4
   color: dark
 
 - name: Aircrack-ng
-  percentage: 80
+  years: 4
   color: dark
 
 - name: Hashcat
-  percentage: 80
+  years: 4
   color: dark
 
 - name: Nmap
-  percentage: 80
+  years: 4
   color: dark
 
 - name: Wireshark
-  percentage: 60
+  years: 3
   color: dark
 
 - name: Metasploit
-  percentage: 60
+  years: 3
   color: dark

@@ -1,35 +1,35 @@
 - name: ReactJS
-  percentage: 100
+  years: 100
   color: warning
 
 - name: Redux
-  percentage: 60
+  years: 3
   color: warning
 
 - name: AngularJS
-  percentage: 80
+  years: 4
   color: warning
 
 - name: VueJS
-  percentage: 80
+  years: 4
   color: warning
 
 - name: Single Page Application
-  percentage: 80
+  years: 4
   color: warning
   
 - name: SCSS
-  percentage: 80
+  years: 4
   color: warning
 
 - name: Material Design
-  percentage: 80
+  years: 4
   color: warning
 
 - name: Bootstrap
-  percentage: 60
+  years: 3
   color: warning
 
 - name: CSS
-  percentage: 60
+  years: 3
   color: warning

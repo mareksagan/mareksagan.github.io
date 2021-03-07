@@ -1,56 +1,56 @@
 - name: Software Engineering
-  percentage: 80
+  years: 4
   color: 
 
 - name: Open Source
-  percentage: 80
+  years: 4
   color: 
 
 - name: OOP
-  percentage: 80
+  years: 4
   color: 
  
 - name: Web Technologies
-  percentage: 80
+  years: 4
   color: 
 
 - name: Microservices Architecture
-  percentage: 80
+  years: 4
   color: 
 
 - name: Unit Tests
-  percentage: 60
+  years: 3
   color: 
 
 - name: Acceptance Testing
-  percentage: 60
+  years: 3
   color: 
 
 - name: SOA
-  percentage: 60
+  years: 3
   color: 
 
 - name: TDD
-  percentage: 60
+  years: 3
   color: 
 
 - name: UML
-  percentage: 60
+  years: 3
   color: 
 
 - name: BRM
-  percentage: 40
+  years: 2
   color: 
 
 - name: DDD
-  percentage: 40
+  years: 2
   color: 
 
 - name: QA
-  percentage: 40
+  years: 2
   color: 
 
 - name: QE
-  percentage: 40
+  years: 2
   color: 
 

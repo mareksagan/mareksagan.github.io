@@ -1,27 +1,27 @@
 - name: Microsoft SQL Server
-  percentage: 80
+  years: 4
   color: success
 
 - name: Oracle Database
-  percentage: 80
+  years: 4
   color: success
 
 - name: SQL
-  percentage: 80
+  years: 4
   color: success
 
 - name: Apache Solr
-  percentage: 80
+  years: 4
   color: success
 
 - name: Elasticsearch
-  percentage: 80
+  years: 4
   color: success
 
 - name: MongoDB
-  percentage: 60
+  years: 3
   color: success
 
 - name: Redis
-  percentage: 60
+  years: 3
   color: success

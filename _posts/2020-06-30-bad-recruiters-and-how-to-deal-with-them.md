@@ -1,5 +1,5 @@
 ---
-title: Bad recruiters and why we hate them
+title: Bad recruiters and how to deal with them
 tags: [Work, Technology]
 style: 
 color: blue
