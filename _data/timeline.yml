@@ -1,7 +1,7 @@
 - title: <b>Senior Software Engineer</b>, Orange Poland, Poland
   from: "5.2020"
   description:
-    • Developing new features of and tuning the firmware on <b>embedded systems</b> (<b>Java 7, Google Web Toolkit / GWT, Apache Kafka, Apache Zookeeper</b>)<br>
+    • Developing new features of and tuning the firmware on <b>embedded systems</b> (<b>Java 7, Google Web Toolkit / GWT, ReactJS, Apache Kafka, Apache Zookeeper</b>)<br>
     • Involved in <b>IoT / Internet of Things</b> development of home entertainment solutions<br>
     • Conducting performance analysis and performance tuning
 
@@ -32,7 +32,7 @@
     • Conducting innovative research and development of the new mainframe products and their APIs (<b>Java 8, Lombok, Mockito, Spring Boot, SLF4J, JUnit, Jacoco, Jersey, Guava, Apache Velocity, Apache Commons, SonarQube, Endevor, IBM z/OS, Git</b>)<br>
     • Developing a modern <b>Cucumber End To End</b> integration testing suite (<b>Cucumber JVM, Selenium, test automation</b>)<br>
     • Effectively creating a <b>Jenkins Continuous Integration</b> build pipeline including a front end validation (<b>eslint</b>)<br>
-    • Making impact on the technical debt and major deficiencies in the React front end which has enabled the project delivery and for the product to enter the MVP lifecycle phase<br>
+    • Making impact on the technical debt and major deficiencies in the <b>React front end</b> which has enabled the project delivery and for the product to enter the MVP lifecycle phase<br>
     • Leading the <b>front end development</b> and <b>mentoring / training the junior team member (s)</b> including <b>code reviews and technical knowledge / technical skills</b> transfer
 
 - title: <b>Consultant</b>, Amaris Consulting, Czech Republic
