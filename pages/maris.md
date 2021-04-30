@@ -15,7 +15,7 @@ Hi, I'm <b>{{site.author.name}}</b>, the CEO of a consulting company called <b>M
 
 <div class="mapouter"><div class="gmap_canvas"><iframe width="300" height="200" id="gmap_canvas" src="https://maps.google.com/maps?q=maris%20sandomierska%2018&t=k&z=3&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe></div><style>.mapouter{position:relative;text-align:right;height:200px;width:300px;}.gmap_canvas {overflow:hidden;background:none!important;height:200px;width:300px;}</style></div>
 
-# **Training**
+# **Cloud training**
 We offer cloud <b>Amazon Web Services</b> and <b>Microsoft Azure</b> training.<br>
 We also support companies with <b>DevOps</b> and <b>Docker</b> technology and certification.
 
