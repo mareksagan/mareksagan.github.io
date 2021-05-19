@@ -2,6 +2,10 @@
   years: 5
   color: warning
 
+- name: React Hooks
+  years: 3
+  color: warning
+
 - name: Redux
   years: 3
   color: warning
