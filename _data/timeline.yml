@@ -1,5 +1,13 @@
+- title: <b>Senior Software Engineer</b>, WorkFusion, Poland
+  from: 7.2021
+  description:
+    • Using and improving <b>Machine Learning algorithms</b> for the core product (<b>Java 8, Groovy, Scala</b>)<br>
+    • Decoupling <b>micro services</b> (<b>Apache Zookeeper, RabbitMQ</b>)<br>
+    • Service deployment and orchestration (<b>Docker, Kubernetes, Camunda BPM, Spring Boot Microservices</br>)
+
 - title: <b>Senior Software Engineer</b>, Orange Poland, Poland
   from: "5.2020"
+  to: 6.2021
   description:
     • Developing new features of and tuning the firmware on <b>embedded systems</b> (<b>Java 7, Google Web Toolkit / GWT, ReactJS, Apache Kafka, Apache Zookeeper</b>)<br>
     • Involved in <b>IoT / Internet of Things</b> development of home entertainment solutions<br>
