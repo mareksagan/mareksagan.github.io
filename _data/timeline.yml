@@ -3,7 +3,7 @@
   description:
     • Using and improving <b>Machine Learning algorithms</b> for the core product (<b>Java 8, Groovy, Scala</b>)<br>
     • Decoupling <b>micro services</b> (<b>Apache Zookeeper, RabbitMQ</b>)<br>
-    • Service deployment and orchestration (<b>Docker, Kubernetes, Camunda BPM, Spring Boot Microservices, Elastic Search, Kibana, Grafana</b>)
+    • Service deployment and orchestration (<b>Docker, Kubernetes, KubeFlow, Camunda BPM, Spring Boot Microservices, Feign, Keycloak, Apache Mesos, HashiCorp Vault, Marathon, HAProxy, Elastic Search, Kibana, Grafana</b>)
 
 - title: <b>Senior Software Engineer</b>, Orange Poland, Poland
   from: "5.2020"
