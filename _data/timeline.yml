@@ -1,24 +1,32 @@
+- title: <b>Senior Software Engineer</b>, Circle K, Poland
+  from: 6.2022
+  to: 4.2023
+  description:
+    • Developing new features for the <b>remote fueling application</b> <b>(Java 17, JUnit, Groovy, Spock, Kotlin, Spring Boot, Spring WebFlux, Swagger / OpenAPI, Spring Cloud, Sleuth, OpenFeign)</b><br>
+    • Adjusting and extending <b>pipelines and functions</b> <b>(Azure Kubernetes Service, Azure DevOps, Azure Functions, Azure Event Grid, Azure Event Hubs, Azure Cosmos DB)</b><br>
+    • Maintaining and improving the <b>NodeJS based microservices</b> <b>(NodeJS 16, TypeScript, HapiJS)</b>
+
 - title: <b>Senior Software Engineer</b>, intive, Poland
   from: 7.2021
   to: 6.2022
   description:
-    • Using and improving <b>Machine Learning algorithms</b> for the core product (<b>Java 8, Groovy, Scala</b>)<br>
-    • Decoupling <b>micro services</b> (<b>Apache Zookeeper, RabbitMQ</b>)<br>
-    • Service deployment and orchestration (<b>Docker, Kubernetes, KubeFlow, Camunda BPM, Spring Boot Microservices, Feign, Keycloak, Apache Mesos, HashiCorp Vault, Marathon, HAProxy, Elastic Search, Kibana, Grafana</b>)
+    • Using and improving <b>Machine Learning algorithms</b> for the core product <b>(Java 8, Groovy, Scala)</b><br>
+    • Decoupling <b>micro services</b> <b>(Apache Zookeeper, RabbitMQ)</b><br>
+    • Service deployment and orchestration <b>(Docker, Kubernetes, KubeFlow, Camunda BPM, Spring Boot Microservices, Feign, Keycloak, Apache Mesos, HashiCorp Vault, Marathon, HAProxy, Elastic Search, Kibana, Grafana)</b>
 
 - title: <b>Senior Software Engineer</b>, Orange Poland, Poland
   from: "5.2020"
   to: 6.2021
   description:
-    • Developing new features of and tuning the firmware on <b>embedded systems</b> (<b>Java 7, Google Web Toolkit / GWT, ReactJS, Apache Kafka, Apache Zookeeper</b>)<br>
-    • Involved in <b>IoT / Internet of Things</b> development of home entertainment solutions (<b>MongoDB, Spring WebFlux</b>)<br>
+    • Developing new features of and tuning the firmware on <b>embedded systems</b> <b>(Java 7, Google Web Toolkit / GWT, ReactJS, Apache Kafka, Apache Zookeeper)</b><br>
+    • Involved in <b>IoT / Internet of Things</b> development of home entertainment solutions <b>(MongoDB, Spring WebFlux)</b><br>
     • Conducting performance analysis and performance tuning
 
 - title: <b>Back End Engineer</b>, e.stradis GmbH, Germany
   from: 12.2019
   to: "4.2020"
   description:
-    • Developing new features of and tuning the <b>credit risk management financial</b> products running on low latency Linux systems (<b>Java 7, Spring 4, JavaScript, CSS, ExtJS, Atlassian JIRA, Apache Ant, SVN</b>)<br>
+    • Developing new features of and tuning the <b>credit risk management financial</b> products running on low latency Linux systems <b>(Java 7, Spring 4, JavaScript, CSS, ExtJS, Atlassian JIRA, Apache Ant, SVN)</b><br>
     • Involved in building and debugging the features with focus on the analytics and <b>project management</b> side according to the industry regulations and business requirements / standards compliance<br>
     • Communication and proactively <b>consulting</b> the solutions with the management / customer representatives from the finance sector<br>
     • Conducting <b>performance analysis and performance tuning</b><br>
@@ -30,17 +38,17 @@
   from: 8.2019
   to: 12.2019
   description:
-    • Programming of a <b>Big Data</b> driven scheduling application loading data into global application designed to support the sales process using the cloud architectures and relational databases / data warehouse (<b>Java 8, JDBC, Apache Tomcat, Spring Boot, Oracle 12g, Ehcache, HikariCP, Teradata Vantage, MyBatis, Amazon Web Services S3, AWS SDK</b>)<br>
-    • Delivering together with external vendors a high quality customers performance reporting application analysing and reporting operational logistics performance from a global to facility level including the target transit time (<b>Java 8, Apache Tomcat, Spring Boot, Oracle 12g, Red Hat Enterprise Linux 7</b>)<br>
-    • Working on a highly scalable enterprise software generating daily / weekly call plans (<b>Java 8, Apache Tomcat, Spring Boot, Oracle 12g, Red Hat Enterprise Linux 7</b>)
+    • Programming of a <b>Big Data</b> driven scheduling application loading data into global application designed to support the sales process using the cloud architectures and relational databases / data warehouse <b>(Java 8, JDBC, Apache Tomcat, Spring Boot, Oracle 12g, Ehcache, HikariCP, Teradata Vantage, MyBatis, Amazon Web Services S3, AWS SDK)</b><br>
+    • Delivering together with external vendors a high quality customers performance reporting application analysing and reporting operational logistics performance from a global to facility level including the target transit time <b>(Java 8, Apache Tomcat, Spring Boot, Oracle 12g, Red Hat Enterprise Linux 7)</b><br>
+    • Working on a highly scalable enterprise software generating daily / weekly call plans <b>(Java 8, Apache Tomcat, Spring Boot, Oracle 12g, Red Hat Enterprise Linux 7)</b>
 
 - title: <b>Full Stack Developer / IT Architect</b>, Broadcom Inc., Czech Republic
   from: 4.2019
   to: 8.2019
   description:
-    • Conducting innovative research and development of the new mainframe products and their APIs (<b>Java 8, Lombok, Mockito, Spring Boot, SLF4J, JUnit, Jacoco, Jersey, Guava, Apache Velocity, Apache Commons, SonarQube, Endevor, IBM z/OS, Git</b>)<br>
-    • Developing a modern <b>Cucumber End To End</b> integration testing suite (<b>Cucumber JVM, Selenium, test automation</b>)<br>
-    • Effectively creating a <b>Jenkins Continuous Integration</b> build pipeline including a front end validation (<b>eslint</b>)<br>
+    • Conducting innovative research and development of the new mainframe products and their APIs <b>(Java 8, Lombok, Mockito, Spring Boot, SLF4J, JUnit, Jacoco, Jersey, Guava, Apache Velocity, Apache Commons, SonarQube, Endevor, IBM z/OS, Git)</b><br>
+    • Developing a modern <b>Cucumber End To End</b> integration testing suite <b>(Cucumber JVM, Selenium, test automation)</b><br>
+    • Effectively creating a <b>Jenkins Continuous Integration</b> build pipeline including a front end validation <b>(eslint)</b><br>
     • Making impact on the technical debt and major deficiencies in the <b>React front end</b> which has enabled the project delivery and for the product to enter the MVP lifecycle phase<br>
     • Leading the <b>front end development</b> and <b>mentoring / training the junior team member (s)</b> including <b>code reviews and technical knowledge / technical skills</b> transfer
 
@@ -48,8 +56,8 @@
   from: 4.2018
   to: 4.2019
   description:
-    • Developing a collaborative bidding platform (<b>Java 11, Maven, Spring MVC, JUnit, Mockito, Hibernate / JPA, PostgreSQL, Angular 7, Protractor, NG-ZORRO, Node.js, Red Hat Enterprise Linux 7</b>)<br>
-    • Working on internal IT projects (<b>ASP.NET MVC 5, jQuery, modular JS, xUnit.NET, Moq</b>)
+    • Developing a collaborative bidding platform <b>(Java 11, Maven, Spring MVC, JUnit, Mockito, Hibernate / JPA, PostgreSQL, Angular 7, Protractor, NG-ZORRO, Node.js, Red Hat Enterprise Linux 7)</b><br>
+    • Working on internal IT projects <b>(ASP.NET MVC 5, jQuery, modular JS, xUnit.NET, Moq)</b>
 
 - title: Postgraduate Studies in IT Project Management, Warsaw School of Computer Science
   from: 2021
