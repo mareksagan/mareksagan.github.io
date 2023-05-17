@@ -4,7 +4,7 @@
   description:
     • Developing new features for the <b>remote fueling application</b> <b>(Java 17, JUnit, Groovy, Spock, Kotlin, Spring Boot, Spring WebFlux, Swagger / OpenAPI, Spring Cloud, Sleuth, OpenFeign)</b><br>
     • Adjusting and extending <b>pipelines and functions</b> <b>(Azure Kubernetes Service, Azure DevOps, Azure Functions, Azure Event Grid, Azure Event Hubs, Azure Cosmos DB)</b><br>
-    • Collaboratively maintaining and improving the <b>NodeJS based microservices</b> <b>(NodeJS 16, TypeScript, HapiJS)</b>
+    • Collaboratively maintaining and improving the <b>NodeJS based microservices</b> <b>(NodeJS 16, TypeScript, HapiJS)</b><br>
     • Close and strong cooperation with diverse multinational teams and overcoming outsourcing challenges such as complex bug fixing and missing documentation within available business capabilities    
 
 - title: <b>Senior Software Engineer</b>, intive, Poland
@@ -12,7 +12,7 @@
   to: 06/2022
   description:
     • Using and improving <b>Machine Learning algorithms</b> for the core product <b>(Java 8, Groovy, Scala)</b><br>
-    • Developing <b>Proof of Concepts</b> and working with multiple teams on advanced domain systems implementation, including the security team and vulnerabilities heuristics
+    • Developing <b>Proof of Concepts</b> and working with multiple teams on advanced domain systems implementation, including the security team and vulnerabilities heuristics<br>
     • Decoupling <b>micro services</b> to promote good separation of concerns in order to meet client expectations <b>(Apache Zookeeper, RabbitMQ)</b><br>
     • Service deployment and orchestration <b>(Docker, Kubernetes, KubeFlow, Camunda BPM, JBoss Drools, Spring Boot Microservices, Feign, Keycloak, Apache Mesos, HashiCorp Vault, Marathon, HAProxy, Elastic Search, Kibana, Grafana)</b>
 
@@ -22,7 +22,7 @@
   description:
     • Coding new features of and tuning the firmware on <b>embedded systems</b> <b>(Java 7, Google Web Toolkit / GWT, ReactJS, Apache Kafka, Apache Zookeeper)</b><br>
     • Involved in <b>IoT / Internet of Things</b> development of smart home entertainment solutions <b>(MongoDB, Spring WebFlux)</b><br>
-    • Motivated help for juniors to grow based on trust and reputation and preparing high level internal training
+    • Motivated help for juniors to grow based on trust and reputation and preparing high level internal training<br>
     • Conducting performance analysis and performance tuning in the production environment
 
 - title: <b>Back End Engineer</b>, e.stradis GmbH, Germany
@@ -59,12 +59,12 @@
   from: 04/2018
   to: 04/2019
   description:
-    • Developing a collaborative bidding platform (<b>Java 11, Maven, Spring MVC, JUnit, Mockito, Hibernate / JPA, PostgreSQL, Angular 7, Protractor, NG-ZORRO, Node.js, Red Hat Enterprise Linux 7</b>)
-    • Developing a competitive and user supporting system with <b>Artificial Intelligence</b> capabilities
-    • Using the <b>Machine Learning algorithms</b> and data structures / design patterns e.g. Strategy pattern according to the proactive business analysis
-    • Improving the existing system according to the <b>Clean Code best practices</b> and technical requirements / performance requirements
-    • Extending and troubleshooting the root cause of the problems of the existing web services used by mobile applications (<b>Microsoft Azure</b>)
-    • Developing an automation script for parsing and collaborating with banking clients for data migration reasons using flexible banking specific frameworks (<b>Python 2.7, Murex MX.3, OpenHFT, FIX / Financial Information Exchange, Red Hat Enterprise Linux 7</b>)
+    • Developing a collaborative bidding platform (<b>Java 11, Maven, Spring MVC, JUnit, Mockito, Hibernate / JPA, PostgreSQL, Angular 7, Protractor, NG-ZORRO, Node.js, Red Hat Enterprise Linux 7</b>)<br>
+    • Developing a competitive and user supporting system with <b>Artificial Intelligence</b> capabilities<br>
+    • Using the <b>Machine Learning algorithms</b> and data structures / design patterns e.g. Strategy pattern according to the proactive business analysis<br>
+    • Improving the existing system according to the <b>Clean Code best practices</b> and technical requirements / performance requirements<br>
+    • Extending and troubleshooting the root cause of the problems of the existing web services used by mobile applications (<b>Microsoft Azure</b>)<br>
+    • Developing an automation script for parsing and collaborating with banking clients for data migration reasons using flexible banking specific frameworks (<b>Python 2.7, Murex MX.3, OpenHFT, FIX / Financial Information Exchange, Red Hat Enterprise Linux 7</b>)<br>
     • Familiarity with financial engineering and trading systems through consulting services
 
 - title: Postgraduate Studies in IT Project Management, Warsaw School of Computer Science
