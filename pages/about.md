@@ -6,7 +6,7 @@ weight: 4
 ---
 
 # **About me**
-5 years of hands on web development. Self driven, dedicated and problem solving software engineering professional.
+8 years of hands on web development. Self driven, dedicated and problem solving software engineering professional.
 Passionate and creative about Object Oriented Programming software development.<br>
 Looking for <b>remote contract (s)</b>.
 
