@@ -16,6 +16,8 @@ It's a socializing event taking place on Meetup.com, a platform that hosts many 
 
 It's important to know the newest things happening in your industry or to refresh your language skills and if you can do it for free, why not?
 
-# Going to meetings is complicated and my calendar is a mess, what do I do?
+# Going to Meetups is complicated, what do I do?
 
 Just sing up for the events you like and download the corresponding ICS files. Merge them here and import them to your calendar in bulk: https://icsmerger.com/
+
+Pick the ones that you like the most and optimize your free time!
