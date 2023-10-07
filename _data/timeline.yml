@@ -1,3 +1,11 @@
+- title: <b>Senior Software Engineer</b>, Orange Poland, Poland
+  from: 05/2023
+  to: 04/2023
+  description:
+    • Working on an sales authentication/authorization system with <b>DevOps</b> support <b>(Java 17, JUnit, Groovy, Spock, Spring Boot, OpenAPI, Spring Cloud, WildFly, Flyway)</b><br>
+    • Adjusting and extending the security mechanisms and 2FA codebase <b>(k8s, OAuth2, Keycloak)</b><br>
+    • Maintaining and improving the existing microservices <b>(OWASP Top 10)</b>
+
 - title: <b>Senior Software Engineer</b>, Circle K, Poland
   from: 06/2022
   to: 04/2023
@@ -66,6 +74,10 @@
     • Extending and troubleshooting the root cause of the problems of the existing web services used by mobile applications (<b>Microsoft Azure</b>)<br>
     • Developing an automation script for parsing and collaborating with banking clients for data migration reasons using flexible banking specific frameworks (<b>Python 2.7, Murex MX.3, OpenHFT, FIX / Financial Information Exchange, Red Hat Enterprise Linux 7</b>)<br>
     • Familiarity with financial engineering and trading systems through consulting services
+
+- title: Master of Business Administration (MBA), The Power Business School
+  from: 2023
+  to: 2025
 
 - title: Postgraduate Studies in IT Project Management, Warsaw School of Computer Science
   from: 2021
