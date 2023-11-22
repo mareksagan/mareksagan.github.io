@@ -1,6 +1,6 @@
 - title: <b>Senior Software Engineer</b>, Orange Poland, Poland
   from: 03/2023
-  to: 04/2023
+  to: 12/2023
   description:
     • Working on an sales authentication/authorization system with <b>DevOps</b> support <b>(Java 17, JUnit, Groovy, Spock, Spring Boot, OpenAPI, Spring Cloud, WildFly, Flyway)</b><br>
     • Adjusting and extending the security mechanisms and 2FA codebase <b>(k8s, OAuth2, Keycloak)</b><br>
