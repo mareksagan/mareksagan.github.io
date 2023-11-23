@@ -13,7 +13,7 @@ Hi, I'm <b>{{site.author.name}}</b>, the CEO of a consulting company called <b>M
 <br>
 <b>REGON:</b> 386004875
 
-<div class="mapouter"><div class="gmap_canvas"><iframe width="300" height="200" id="gmap_canvas" src="https://maps.google.com/maps?q=maris%20sandomierska%2018&t=k&z=3&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe></div><style>.mapouter{position:relative;text-align:right;height:200px;width:300px;}.gmap_canvas {overflow:hidden;background:none!important;height:200px;width:300px;}</style></div>
+<iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=21.017653048038486%2C52.208622445260104%2C21.01947695016861%2C52.20949684561479&amp;layer=mapnik" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/#map=19/52.20906/21.01856">View Larger Map</a></small>
 
 # **Training and consulting**
 We offer cloud <b>Amazon Web Services</b> and <b>Docker / Kubernetes</b> training.<br>
