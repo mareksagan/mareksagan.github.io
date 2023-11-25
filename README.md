@@ -1,2 +1,2 @@
 # mareksagan.github.io
-Personal blog and the MARIS software consulting business website
+Personal blog about software consulting business
