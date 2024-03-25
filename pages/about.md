@@ -6,7 +6,7 @@ weight: 4
 ---
 
 # **About me**
-8 years of hands on web development. Self driven, dedicated and problem solving software engineering professional.
+8 years of hands on web development and DevOps. Self driven, dedicated and problem solving software engineering professional.
 Passionate and creative about Object Oriented Programming software development.<br>
 
 # **Resume / CV**
@@ -15,7 +15,7 @@ Passionate and creative about Object Oriented Programming software development.<
 # **Skills**
 <div class="row">
 {% include about/skills.html title="Java" source=site.data.java-skills %}
-{% include about/skills.html title="Front end" source=site.data.javascript-skills %}
+{% include about/skills.html title="DevOps" source=site.data.devops-skills %}
 </div>
 <div class="row">
 {% include about/skills.html title="Cloud" source=site.data.cloud-skills %}
@@ -23,7 +23,7 @@ Passionate and creative about Object Oriented Programming software development.<
 </div>
 <div class="row">
 {% include about/skills.html title="Software Architecture" source=site.data.architecture-skills %}
-{% include about/skills.html title="DevOps" source=site.data.devops-skills %}
+{% include about/skills.html title="Front end" source=site.data.javascript-skills %}
 </div>
 <div class="row">
 {% include about/skills.html title="Management skills" source=site.data.management-skills %}
