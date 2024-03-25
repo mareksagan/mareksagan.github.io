@@ -2,9 +2,9 @@
 source: ../
 baseurl: /
 repository: mareksagan
-title: Java / React Expert
-company: MARIS - Java / React Expert - 8 years of hands on web development
-description: MARIS - Java / React Expert - 8 years of hands on web development
+title: Java / DevOps Expert
+company: MARIS - Java / DevOps Expert - 8 years of hands on web development and DevOps
+description: MARIS - Java / DevOps Expert - 8 years of hands on web development and DevOps
 
 
 ### Navbar Settings ###
@@ -37,7 +37,7 @@ author:
   linkedin: marek-sagan
   stackoverflow: 6444452
   phone: 0048737878782
-  resume: https://github.com/mareksagan/Resume/raw/master/Marek_Sagan_JavaReactExpert
+  resume: https://github.com/mareksagan/Resume/raw/master/Marek_Sagan_JavaDevOpsExpert
 
 
 ### Posts ###
