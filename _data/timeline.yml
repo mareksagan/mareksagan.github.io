@@ -1,3 +1,11 @@
+- title: <b>Lead Software Engineer</b>, Knappschaft, Germany
+  from: 01/2024
+  to: 09/2024
+  description:
+    • Developing new features and leading the team for the non-profit migrant and low income household supporting application (Java 21, JUnit, Spring Boot 3, Swagger / OpenAPI, Spring Cloud, Sleuth, OpenFeign, RabbitMQ)
+    • Adjusting and extending processes and functions (AWS EC2, AWS S3, AWS Cloud Formation, AWS CloudWatch, Ansible, Kubernetes, Jenkins)
+    • Maintaining and improving the existing microservices (Keycloak 17, Spring Security)
+
 - title: <b>Senior Software Engineer</b>, Orange Poland, Poland
   from: 03/2023
   to: 12/2023
