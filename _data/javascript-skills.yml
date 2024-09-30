@@ -1,39 +1,39 @@
 - name: ReactJS
-  years: 5
-  color: warning
-
-- name: React Hooks
-  years: 3
+  years: 8
   color: warning
 
 - name: Redux
-  years: 3
+  years: 8
+  color: warning
+
+- name: React Hooks
+  years: 5
   color: warning
 
 - name: AngularJS
-  years: 4
+  years: 5
   color: warning
 
 - name: VueJS
-  years: 4
+  years: 5
   color: warning
 
-- name: Single Page Application
-  years: 4
+- name: SPA
+  years: 5
   color: warning
   
 - name: SCSS
-  years: 4
+  years: 5
   color: warning
 
 - name: Material Design
-  years: 4
+  years: 5
   color: warning
 
 - name: Bootstrap
-  years: 3
+  years: 4
   color: warning
 
 - name: CSS
-  years: 3
+  years: 4
   color: warning

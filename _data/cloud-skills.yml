@@ -1,32 +1,32 @@
 - name: Amazon Web Services
-  years: 4
+  years: 8
   color: 
 
 - name: Elastic Beanstalk
-  years: 4
+  years: 8
+  color: 
+
+  - name: Amazon EC2
+  years: 8
   color: 
 
 - name: Amazon Lambda
-  years: 4
-  color: 
-
-- name: Amazon EC2
-  years: 4
+  years: 5
   color: 
 
 - name: Alibaba Cloud
-  years: 4
+  years: 5
   color: 
 
 - name: Google Cloud
-  years: 4
+  years: 5
   color: 
 
 - name: Google App Engine
-  years: 4
+  years: 5
   color: 
 
-- name: Microsoft Azure
+- name: Azure
   years: 3
   color: 
 

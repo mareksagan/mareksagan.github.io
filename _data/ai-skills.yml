@@ -1,0 +1,31 @@
+- name: TensorFlow
+  years: 4
+  color: 
+
+- name: Llama
+  years: 3
+  color: 
+
+- name: Airflow
+  years: 3
+  color: 
+
+- name: PyTorch
+  years: 3
+  color: 
+
+- name: Snowflake
+  years: 3
+  color: 
+
+- name: RAG
+  years: 3
+  color: 
+
+- name: LoRA
+  years: 3
+  color: 
+
+- name: NLTK
+  years: 3
+  color: 

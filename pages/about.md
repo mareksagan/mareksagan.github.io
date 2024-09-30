@@ -18,6 +18,10 @@ Passionate and creative about Object Oriented Programming software development.<
 {% include about/skills.html title="DevOps" source=site.data.devops-skills %}
 </div>
 <div class="row">
+{% include about/skills.html title="AI" source=site.data.ai-skills %}
+{% include about/skills.html title="Security" source=site.data.security-skills %}
+</div>
+<div class="row">
 {% include about/skills.html title="Cloud" source=site.data.cloud-skills %}
 {% include about/skills.html title="Database" source=site.data.db-skills %}
 </div>

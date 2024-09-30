@@ -1,55 +1,55 @@
 - name: Java
-  years: 5
+  years: 8
   color: dark
 
 - name: Spring Boot
-  years: 4
+  years: 8
   color: dark
 
 - name: Spring Framework
-  years: 4
+  years: 8
   color: dark
 
 - name: Maven
-  years: 4
+  years: 5
   color: dark
   
 - name: JDBC
-  years: 4
+  years: 5
   color: dark
     
 - name: JDK
-  years: 4
+  years: 5
   color: dark
 
 - name: Groovy
-  years: 4
+  years: 5
   color: dark
 
 - name: Apache Tomcat
-  years: 4
+  years: 5
   color: dark
 
 - name: IntelliJ IDEA
-  years: 4
+  years: 5
   color: dark
 
 - name: Mockito
-  years: 3
+  years: 4
   color: dark
 
 - name: JUnit
-  years: 3
+  years: 4
   color: dark
 
 - name: JEE / J2EE
-  years: 2
+  years: 3
   color: dark
 
 - name: Eclipse
-  years: 2
+  years: 3
   color: dark
 
 - name: Drools
-  years: 2
+  years: 3
   color: dark
