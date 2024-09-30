@@ -1,35 +1,27 @@
 - name: Teamwork
-  years: 4
+  years: 5
   color: warning
 
 - name: Collaboration
-  years: 4
+  years: 5
   color: warning
 
 - name: Networking
-  years: 4
-  color: warning
-
-- name: Verbal Communication Skills
-  years: 4
+  years: 5
   color: warning
 
 - name: Interpersonal Skills
-  years: 4
+  years: 5
   color: warning
 
-- name: Multicultural Understanding
-  years: 4
+- name: Multiculturalism
+  years: 5
   color: warning
 
 - name: Analytical Skills
-  years: 4
+  years: 5
   color: warning
 
 - name: Attention to Detail
-  years: 4
-  color: warning
-
-- name: Independent Work
-  years: 3
+  years: 5
   color: warning

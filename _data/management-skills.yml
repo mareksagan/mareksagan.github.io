@@ -1,31 +1,31 @@
 - name: Scrum
-  years: 4
+  years: 5
   color: danger
 
 - name: Agile Development
-  years: 4
+  years: 5
   color: danger
 
 - name: Lean Methodology
-  years: 4
+  years: 5
   color: danger
 
 - name: Kanban
-  years: 3
+  years: 4
   color: danger
 
 - name: Mentorship Skills
-  years: 3
+  years: 4
   color: danger
 
 - name: Coaching Skills
-  years: 3
+  years: 4
   color: danger
 
 - name: Leadership Skills
-  years: 3
+  years: 4
   color: danger
   
 - name: PM Skills
-  years: 2
+  years: 3
   color: danger
