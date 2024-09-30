@@ -6,9 +6,8 @@ weight: 4
 ---
 
 # **About me**
-8 years of hands on web development. Self driven, dedicated and problem solving software engineering professional.
+8 years of hands on web development and DevOps. Self driven, dedicated and problem solving software engineering professional.
 Passionate and creative about Object Oriented Programming software development.<br>
-Looking for <b>remote contract (s)</b>.
 
 # **Resume / CV**
 <a href="{{ site.author.resume }}.pdf">PDF</a> or <a href="{{ site.author.resume }}.odt">ODT</a>?
@@ -17,7 +16,10 @@ Looking for <b>remote contract (s)</b>.
 <div class="row">
 {% include about/skills.html title="Java" source=site.data.java-skills %}
 {% include about/skills.html title="DevOps" source=site.data.devops-skills %}
-
+</div>
+<div class="row">
+{% include about/skills.html title="AI" source=site.data.ai-skills %}
+{% include about/skills.html title="Security" source=site.data.security-skills %}
 </div>
 <div class="row">
 {% include about/skills.html title="Cloud" source=site.data.cloud-skills %}

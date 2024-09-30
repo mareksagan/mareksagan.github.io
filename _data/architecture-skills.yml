@@ -1,56 +1,47 @@
-- name: Software Engineering
-  years: 4
+- name: OOP
+  years: 5
+  color: 
+ 
+- name: Web Technologies
+  years: 5
+  color: 
+
+- name: Microservices
+  years: 5
   color: 
 
 - name: Open Source
   years: 4
   color: 
 
-- name: OOP
-  years: 4
-  color: 
- 
-- name: Web Technologies
-  years: 4
-  color: 
-
-- name: Microservices Architecture
-  years: 4
-  color: 
-
 - name: Unit Tests
-  years: 3
-  color: 
-
-- name: Acceptance Testing
-  years: 3
+  years: 4
   color: 
 
 - name: SOA
-  years: 3
+  years: 4
   color: 
 
 - name: TDD
-  years: 3
+  years: 4
   color: 
 
 - name: UML
+  years: 4
+  color: 
+
+- name: DDD
+  years: 3
+  color: 
+
+- name: QA
+  years: 3
+  color: 
+
+- name: QE
   years: 3
   color: 
 
 - name: BRM
   years: 2
   color: 
-
-- name: DDD
-  years: 2
-  color: 
-
-- name: QA
-  years: 2
-  color: 
-
-- name: QE
-  years: 2
-  color: 
-

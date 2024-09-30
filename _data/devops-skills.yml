@@ -1,51 +1,51 @@
 - name: Jenkins
-  years: 4
+  years: 5
   color: danger
 
 - name: Python
-  years: 4
+  years: 5
   color: danger
 
 - name: PowerShell Scripting
-  years: 4
+  years: 5
   color: danger
  
 - name: Bash Scripting
-  years: 4
+  years: 5
   color: danger
 
 - name: XML
-  years: 4
+  years: 5
   color: danger
 
 - name: JSON
-  years: 4
+  years: 5
   color: danger
 
 - name: SOAP
-  years: 4
+  years: 5
   color: danger
 
 - name: REST
-  years: 4
+  years: 5
   color: danger
 
 - name: Git
-  years: 4
+  years: 5
   color: danger
 
 - name: Ansible
-  years: 4
-  color: danger
-
-- name: Docker
-  years: 3
-  color: danger
-
-- name: Kubernetes
-  years: 3
+  years: 5
   color: danger
 
 - name: Linux
-  years: 3
+  years: 5
+  color: danger
+
+- name: Docker
+  years: 4
+  color: danger
+
+- name: Kubernetes
+  years: 4
   color: danger
